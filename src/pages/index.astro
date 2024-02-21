@@ -11,11 +11,11 @@ const models = await fetch(`${BASE_URL}${SITE_URL}/data/models.json`).then((resp
 // import models from '@/data/models.json'
 ---
 
-<Layout title="TITLE" description="DESCRIPTION">
+<Layout title="Купить Ливэн у официального дилера LIVAN Автохолдинг в Самаре" description="Специальные цены и подарки на автомобили Ливан. Выгодные предложения на весь модельный ряд Livan. Забронируйте свой автомобиль прямо сейчас! ☎️ 8 (846) 9 777-772">
 	<Banner fetchURL={`${BASE_URL}${SITE_URL}/data/banners.json`} />
 	<ModelList fetchURL={`${BASE_URL}${SITE_URL}/data/models.json`} />
 	{models && models.map((model: any) => model.show && <Model model={model}/>)}
-	<Callback bgUrl="https://baic-krasnodar.ru/img/x35/konkurenty.jpg" />
+	<Callback bgUrl="/img/konkurenty.webp" />
 	<Services fetchURL={`${BASE_URL}${SITE_URL}/data/services.json`} />
 	<Contacts
 		fetchURL={`${BASE_URL}${SITE_URL}/data/salons.json`}
