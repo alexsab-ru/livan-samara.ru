@@ -7,28 +7,28 @@ model_mapping = {
     "X3 Pro": {
         "folder": "x3pro",
         "color": {
-            "Beige": "gold",
-            "White": "white",
-            "Red": "red",
-            "Blue": "blue",
-            "Gray": "gray",
-            "Grey": "gray",
+            "Beige": "gold.webp",
+            "White": "white.webp",
+            "Red": "red.webp",
+            "Blue": "blue.webp",
+            "Gray": "gray.webp",
+            "Grey": "gray.webp",
         }},
     "X6 Pro": {
         "folder": "x6pro",
         "color": {
-            "White": "white",
-            "Blue": "blue",
-            "Gray": "gray",
-            "Grey": "gray",
+            "White": "white.webp",
+            "Blue": "blue.webp",
+            "Gray": "gray.webp",
+            "Grey": "gray.webp",
         }},
     "S6 Pro": {
         "folder": "s3pro",
         "color": {
-            "White": "white",
-            "Blue": "blue",
-            "Gray": "gray",
-            "Grey": "gray",
+            "White": "white.webp",
+            "Blue": "blue.webp",
+            "Gray": "gray.webp",
+            "Grey": "gray.webp",
         }},
 
     # ... добавьте другие модели по мере необходимости
