@@ -1,15 +1,24 @@
 import { phoneFormat } from '@/js/utils/numbers.format';
-
-export const BASE_URL = 'https://alexsab-ru.github.io/astro-json/'; // Адрес для JSON
-export const SITE_URL = 'livan-alpha.ru'; // URL сайта по умолчанию
-export const SITE_NAME = 'Альфа'; // Название сайта по умолчанию
-export const LEGAL_ENTITY = 'ООО «Автоцентр Альфа»'; // Юр лицо
-export const LEGAL_INN = '6324066475'; // ИНН
-export const LEGAL_CITY = 'г. Самара'; // Город
-export const LEGAL_CITY_WHERE = 'Самаре'; // где? в Городе
-export const SITE_DESCR = 'Официальный дилерский центр Ливэн в Самаре'; // Описание сайта по умолчанию
-export const TELEGRAM = ''; // Имя пользователя в Телегам
-export const PHONE = '+7 (846) 9 777-772'; // Телефон по умолчанию
+// Адрес для JSON
+export const BASE_URL = 'https://alexsab-ru.github.io/astro-json/';
+// URL сайта по умолчанию
+export const SITE_URL = 'livan-alpha.ru';
+// Название сайта по умолчанию
+export const SITE_NAME = 'Альфа';
+// Юр лицо
+export const LEGAL_ENTITY = 'ООО «Автоцентр Альфа»';
+// ИНН
+export const LEGAL_INN = '6324066475';
+// Город
+export const LEGAL_CITY = 'г. Самара';
+// где? в Городе
+export const LEGAL_CITY_WHERE = 'Самаре';
+// Описание сайта по умолчанию
+export const SITE_DESCR = 'Официальный дилерский центр Ливэн в Самаре';
+// Имя пользователя в Телегам
+export const TELEGRAM = '';
+// Телефон по умолчанию
+export const PHONE = '+7 (846) 9 777-772';
 
 export const BRAND = 'Livan';
 
