@@ -1,11 +1,15 @@
-export const BASE_URL = 'https://alexsab-ru.github.io/astro-json/'; // Название сайта по умолчанию
-export const SITE_URL = 'livan-alpha.ru'; // Название сайта по умолчанию
+import { phoneFormat } from '@/js/utils/numbers.format';
+
+export const BASE_URL = 'https://alexsab-ru.github.io/astro-json/'; // Адрес для JSON
+export const SITE_URL = 'livan-alpha.ru'; // URL сайта по умолчанию
 export const SITE_NAME = 'Альфа'; // Название сайта по умолчанию
 export const LEGAL_ENTITY = 'ООО «Автоцентр Альфа»'; // Юр лицо
 export const LEGAL_INN = '6324066475'; // ИНН
 export const LEGAL_CITY = 'г. Самара'; // Город
 export const LEGAL_CITY_WHERE = 'Самаре'; // где? в Городе
-export const SITE_DESCR = 'Официальный дилерский центр'; // Описание сайта по умолчанию
+export const SITE_DESCR = 'Официальный дилерский центр Ливэн в Самаре'; // Описание сайта по умолчанию
+export const TELEGRAM = ''; // Имя пользователя в Телегам
+export const PHONE = '+7 (846) 9 777-772'; // Телефон по умолчанию
 
 export const BRAND = 'Livan';
 
@@ -22,4 +26,4 @@ export const LINKS_MENU = [
 export const HEADER_TOP_LINE = '';
 
 export const AGREE_LABEL = '<span>Я согласен на</span><a href="/privacy-policy" class="underline transition-all hover:no-underline" target="_blank">обработку персональных данных</a>';
-export const FOOTER_INFO = '<sup>*</sup> Вся представленная на сайте информация, касающаяся автомобилей и сервисного обслуживания, носит информационный характер и не является публичной офертой, определяемой положениями ст. 437 ГК РФ. Все цены, указанные на данном сайте, носят информационный характер. Для получения подробной информации просьба обращаться к менеджерам отдела продаж по номеру телефона <a href="tel:88469777772">8 (846) 9 777-772</a>. Опубликованная на данном сайте информация может быть изменена в любое время без предварительного уведомления.';
+export const FOOTER_INFO = '<sup>*</sup> Вся представленная на сайте информация, касающаяся автомобилей и сервисного обслуживания, носит информационный характер и не является публичной офертой, определяемой положениями ст. 437 ГК РФ. Все цены, указанные на данном сайте, носят информационный характер. Для получения подробной информации просьба обращаться к менеджерам отдела продаж по номеру телефона <a class="whitespace-nowrap" href="tel:' + phoneFormat(PHONE) + '">' + PHONE + '</a>. Опубликованная на данном сайте информация может быть изменена в любое время без предварительного уведомления.';
