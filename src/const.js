@@ -29,6 +29,7 @@ export const LINKS_MENU = [
 	{url: 'test-drive/', name: 'Запись на тест-драйв'},
 	{url: 'service-request/', name: 'Запись на сервис'},
 	{url: '#services', name: 'Услуги'},
+	{url: 'brand-history/', name: 'История бренда'},
 	{url: 'contacts/', name: 'Контакты'},
 ];
 // Текстовая строка над хедером
