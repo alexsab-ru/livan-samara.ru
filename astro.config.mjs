@@ -18,6 +18,6 @@ export default defineConfig({
 		mdx(),
 		icon(),
 	],
-	site: 'https://cars.livan-alpha.ru',
+	site: 'https://livan-alpha.ru',
 	base: "/"
 });
