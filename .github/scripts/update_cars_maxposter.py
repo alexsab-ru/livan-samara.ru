@@ -56,9 +56,11 @@ def create_file(car, filename, unique_id):
         color_image = model_mapping[model]['color'][color]
         thumb = f"/img/models/{folder}/colors/{color_image}"
     else:
-        print(f"{model} {color}")
-        with open('output.txt', 'a') as file:
-            file.write(f"{model} {color}\n")
+        print("")
+        print(f"VIN: {vin}. Не хватает модели: {model} или цвета: {color}")
+        print("")
+        # with open('output.txt', 'a') as file:
+        #     file.write(f"{model} {color}\n")
         # Если 'model' или 'color' не найдены, используем путь к изображению ошибки 404
         thumb = "/img/404.jpg"
         global error_404_found
@@ -242,6 +244,19 @@ def cleanup_unused_thumbs():
 
 import xml.etree.ElementTree as ET
 
+def create_child_element(parent, new_element_name, text):
+    # Поиск существующего элемента
+    old_element = parent.find(new_element_name)
+    if old_element is not None:
+        parent.remove(old_element)
+
+    # Создаем новый элемент с нужным именем и текстом старого элемента
+    new_element = ET.Element(new_element_name)
+    new_element.text = str(text)
+
+    # Добавление нового элемента в конец списка дочерних элементов родителя
+    parent.append(new_element)
+
 def rename_child_element(parent, old_element_name, new_element_name):
     old_element = parent.find(old_element_name)
     if old_element is not None:
@@ -395,10 +410,9 @@ for car in root:
     rename_child_element(car, 'mileage', 'run')
     rename_child_element(car, 'bodyType', 'body_type')
     rename_child_element(car, 'steeringWheel', 'wheel')
-    max_discount_tag = "tradeinDiscount"
-    if(car.find('creditDiscount').text > car.find('tradeinDiscount').text):
-        max_discount_tag = "creditDiscount"
-    rename_child_element(car, max_discount_tag, 'max_discount')
+    credit_discount = int(car.find('creditDiscount').text)
+    tradein_discount = int(car.find('tradeinDiscount').text)
+    create_child_element(car, 'max_discount', credit_discount + tradein_discount)
 
     unique_id = build_unique_id(car, 'mark_id', 'folder_id', 'modification_id', 'complectation_name', 'color', 'price', 'year')
     print(f"Уникальный идентификатор: {unique_id}")
