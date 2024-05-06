@@ -1,7 +1,7 @@
 ---
 import PageLayout from '@/layouts/PageLayout.astro';
 import {BASE_URL, SITE_URL, SITE_NAME, LEGAL_ENTITY, LEGAL_INN} from '@/const';
-const salons = await fetch(`${BASE_URL}${SITE_URL}/data/salons.json`).then((response) => response.json());
+import salons from '@/data/salons.json';
 const salon = salons[0]; //временно, наверное
 
 ---
@@ -113,7 +113,7 @@ const salon = salons[0]; //временно, наверное
 
 	<h3 class="text-xl mt-5 mb-5">Модель <b>X3PRO</b> получает приз <b>«Автомобиль года 2023»</b> в номинации <b>«Лучшее соотношение цена-качество»</b></h3>
 	<img src="/img/brand-history/diplom.jpg" class="!m-0" alt="Диплом Автомобиль года 2023">
-	
+
 	<h3 class="text-2xl font-bold mt-10 mb-5">Факты о компании GEELY</h3>
 
 	<p>Бренды Geely (основные): <b>VOLVO</b> (+Polestar)100% акций, <b>Lotus</b> 51%, <b>Daimler AG</b> 10%, <b>London Taxi Company</b> 100%, Суб. Бренды премиум класса: <b>LYNK&CO, ZEEKR</b> (электромобили)</p>
