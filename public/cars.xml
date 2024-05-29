@@ -754,9 +754,9 @@
   <previousPrice />
   <specialOffer>0</specialOffer>
   <specialOfferPreviousPrice />
-  <priceWithDiscount>1592000</priceWithDiscount>
-  <tradeinDiscount>90000</tradeinDiscount>
-  <creditDiscount>120000</creditDiscount>
+  <priceWithDiscount>1500000</priceWithDiscount>
+  <tradeinDiscount>250000</tradeinDiscount>
+  <creditDiscount>150000</creditDiscount>
   <insuranceDiscount />
   <availability>available</availability>
   <ptsType />
@@ -901,7 +901,7 @@
     <inContent />
     <reserved />
   </status>
-<max_discount>210000</max_discount><sale_price>1592000</sale_price><url>https://livan-samara.ru/cars/livan-x3-pro-15-cvt-103-лс-luxury-blue-2023/</url></vehicle>
+<max_discount>400000</max_discount><sale_price>1500000</sale_price><url>https://livan-samara.ru/cars/livan-x3-pro-15-cvt-103-лс-luxury-blue-2023/</url></vehicle>
 <vehicle>
   <id>5698201</id>
   <vin>LLV2A3B21P0300520</vin>
@@ -929,9 +929,9 @@
   <previousPrice />
   <specialOffer>0</specialOffer>
   <specialOfferPreviousPrice />
-  <priceWithDiscount>2239900</priceWithDiscount>
-  <tradeinDiscount>200000</tradeinDiscount>
-  <creditDiscount>200000</creditDiscount>
+  <priceWithDiscount>1769000</priceWithDiscount>
+  <tradeinDiscount>500000</tradeinDiscount>
+  <creditDiscount>370900</creditDiscount>
   <insuranceDiscount />
   <availability>available</availability>
   <ptsType />
@@ -1091,5 +1091,5 @@
     <inContent />
     <reserved />
   </status>
-<max_discount>400000</max_discount><sale_price>2239900</sale_price><url>https://livan-samara.ru/cars/livan-s6-pro-15-amt-147-лс-premium-white-2023/</url></vehicle>
+<max_discount>870900</max_discount><sale_price>1769000</sale_price><url>https://livan-samara.ru/cars/livan-s6-pro-15-amt-147-лс-premium-white-2023/</url></vehicle>
 </vehicles>
