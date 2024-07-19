@@ -23,7 +23,7 @@ model_mapping = {
             "Grey": "gray.webp",
         }},
     "S6 Pro": {
-        "folder": "s3pro",
+        "folder": "s6pro",
         "color": {
             "White": "white.webp",
             "Blue": "blue.webp",
