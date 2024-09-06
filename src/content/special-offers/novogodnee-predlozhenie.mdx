@@ -7,7 +7,9 @@ image: /img/offers/novogodnee-predlozhenie/thumb.webp
 description: "Специальное новогоднее предложение в честь Китайского Нового Года в Livan Альфа Самара"
 ---
 import Button from '@/components/Button/Button.astro';
-// import url from Astro;
+import { SITE_NAME, PHONE } from '@/const';
+import { phoneFormat } from '@/js/utils/numbers.format';
+import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
 
 <picture>
     <source media="(min-width: 1025px)" srcset="/img/offers/novogodnee-predlozhenie/image.webp" />
@@ -31,7 +33,7 @@ import Button from '@/components/Button/Button.astro';
 
 Выгода по трейд-ин 100 000 рублей. Выгода при покупке в кредит в банке-партнере – 130 000 рублей. Эти выгоды суммируются. Общая выгода на модель составляет 230 000 рублей. Стоимость автомобиля от 2 319 900 рублей
 
-Подробности в нашем дилерском центре по тел.: [8 (846) 9 777-772](tel:+78469777772)
+Подробности в нашем дилерском центре по тел.: <a href={`tel:${phoneFormat(PHONE)}`}>{PHONE}</a>
 
 <div class="flex justify-center mt-10 mb-5">
     <Button 

@@ -7,7 +7,9 @@ image: /img/offers/livan-finance-program/thumb.webp
 description: "Программа LIVAN FINANCE в Livan Альфа Самара: выгодное финансирование при покупке автомобилей Ливэн. Подробнее о льготных условиях кредитования и лизинга."
 ---
 import Button from '@/components/Button/Button.astro';
-// import url from Astro;
+import { SITE_NAME, PHONE } from '@/const';
+import { phoneFormat } from '@/js/utils/numbers.format';
+import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
 
 <picture>
     <source media="(min-width: 1025px)" srcset="/img/offers/livan-finance-program/image.webp" />
@@ -20,7 +22,7 @@ import Button from '@/components/Button/Button.astro';
 
 Предлагаем воспользоваться специальными условиями при покупке нового автомобиля LIVAN по программе LIVAN  FINANCE: дополнительная выгода при покупке 80 000 рублей и привлекательные кредитные ставки!
 
-Подробности в нашем дилерском центре по тел.: [8 (846) 9 777-772](tel:+78469777772)
+Подробности в нашем дилерском центре по тел.: <a href={`tel:${phoneFormat(PHONE)}`}>{PHONE}</a>
 
 <div class="flex justify-center mt-10 mb-5">
     <Button 
