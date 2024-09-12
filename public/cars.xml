@@ -54,7 +54,10 @@
   <craneArrowPayload />
   <loadHeight />
   <photoCount>1</photoCount>
-  <description />
+  <description>Livan-суббренд GEELY, это значит, что схема производства, цепочка поставки компонентов, стандарты и уровень качества продукции высшего уровня.
+При покупке авто до конца февраля возможна индивидуальная скидка
+Автомобиль пpедставлeн официaльным дилером Livan в г. Самара В нашем автосалоне для вас: Большой выбор автомобилей Livan в наличии Выгодный обмен по программе Тrаdе-in Большой выбор автомобилей с пробегом Выкуп автомобилей Официальный сервисный центр Кузовной сервис Кредит на выгодных условиях Страхование КАСКО, ОСАГО
+Авторассрочка:12,24,36 мес. Лизинг (для юридических лиц) Дополнительное оборудование Стоимость указана с учетом скидок и предложений Мы рады видеть Вас ежедневно с 08:00 до 20:00 по адресу: Самара, Новоурицкая 22А.</description>
   <address>Самара, Новоурицкая 22</address>
   <ownersCount>0</ownersCount>
   <vehicleCondition>excellent</vehicleCondition>
@@ -169,929 +172,6 @@
   </status>
 <max_discount>820900</max_discount><sale_price>1769000</sale_price><url>https://livan-samara.ru/cars/livan-s6-pro-15-amt-147-лс-premium-grey-2023/</url></vehicle>
 <vehicle>
-  <id>5638170</id>
-  <vin>LLV5C3B2XP0500402</vin>
-  <uin />
-  <dealer id="6371">Автоцентр Альфа LIVAN</dealer>
-  <category id="1">Легковые</category>
-  <subcategory />
-  <type>new</type>
-  <year>2023</year>
-  <mark_id>Livan</mark_id><folder_id>X6 Pro</folder_id><generation />
-  <bodyConfiguration id="13330">Внедорожник 5 дв.</bodyConfiguration>
-  <modification_id>1.5 AMT (147 л.с.)</modification_id><complectation_name>Premium</complectation_name><brandComplectationCode />
-  <engineType>Бензин</engineType>
-  <engineVolume>1499</engineVolume>
-  <enginePower>147</enginePower>
-  <bodyNumber />
-  <body_type>SUV</body_type><bodyDoorCount>5</bodyDoorCount>
-  <seatCount>5</seatCount>
-  <color>Белый</color><bodyColorMetallic>0</bodyColorMetallic>
-  <driveType>Передний</driveType>
-  <gearboxType>Робот</gearboxType>
-  <gearboxGearCount />
-  <wheel>Левый</wheel><run>0</run><mileageUnit>km</mileageUnit>
-  <price>2569900</price>
-  <previousPrice>2508235</previousPrice>
-  <specialOffer>0</specialOffer>
-  <specialOfferPreviousPrice />
-  <priceWithDiscount>1919000</priceWithDiscount>
-  <tradeinDiscount>0</tradeinDiscount>
-  <creditDiscount>320900</creditDiscount>
-  <insuranceDiscount />
-  <availability>available</availability>
-  <ptsType />
-  <country />
-  <operatingTime />
-  <ecoClass />
-  <driveWheel />
-  <axisCount />
-  <brakeType />
-  <cabinType />
-  <maximumPermittedMass />
-  <saddleHeight />
-  <cabinSuspension />
-  <chassisSuspension />
-  <length />
-  <width />
-  <bodyVolume />
-  <bucketVolume />
-  <tractionClass />
-  <refrigeratorClass />
-  <craneArrowRadius />
-  <craneArrowLength />
-  <craneArrowPayload />
-  <loadHeight />
-  <photoCount>1</photoCount>
-  <description>Livan-суббренд GEELY, это значит, что схема производства, цепочка поставки компонентов, стандарты и уровень качества продукции высшего уровня.
-При покупке авто до конца февраля возможна индивидуальная скидка
-Автомобиль пpедставлeн официaльным дилером Livan в г. Самара В нашем автосалоне для вас: Большой выбор автомобилей Livan в наличии Выгодный обмен по программе Тrаdе-in Большой выбор автомобилей с пробегом Выкуп автомобилей Официальный сервисный центр Кузовной сервис Кредит на выгодных условиях Страхование КАСКО, ОСАГО
-Авторассрочка:12,24,36 мес. 
-Лизинг (для юридических лиц) 
-Дополнительное оборудование 
-Стоимость указана с учетом скидок и предложений 
-Мы рады видеть Вас ежедневно с 08:00 до 20:00 по адресу: Самара, Новоурицкая 22А.</description>
-  <address>Самара, Новоурицкая 22</address>
-  <ownersCount>0</ownersCount>
-  <vehicleCondition>excellent</vehicleCondition>
-  <equipment>
-    <group id="1" name="Активная безопасность">
-      <element id="1">Антиблокировочная система</element>
-      <element id="2">Антипробуксовочная система</element>
-      <element id="3">Система курсовой устойчивости</element>
-      <element id="222">Система распределения тормозных усилий</element>
-      <element id="5">Система помощи при экстренном торможении</element>
-      <element id="8">Датчик давления в шинах</element>
-      <element id="223">ЭРА-ГЛОНАСС</element>
-    </group>
-    <group id="2" name="Пассивная безопасность">
-      <element id="10">Подушки безопасности водителя</element>
-      <element id="14">Боковые передние подушки безопасности</element>
-      <element id="16">Оконные шторки безопасности</element>
-      <element id="18">Блокировка замков задних дверей</element>
-      <element id="19">Система крепления детских автокресел</element>
-    </group>
-    <group id="3" name="Противоугонная система">
-      <element id="24">Иммобилайзер</element>
-      <element id="25">Центральный замок</element>
-    </group>
-    <group id="4" name="Помощь при вождении">
-      <element id="26">Бортовой компьютер</element>
-      <element id="27">Круиз-контроль</element>
-      <element id="30">Парктроник задний</element>
-      <element id="33">Камера заднего вида</element>
-      <element id="41">Датчик света</element>
-    </group>
-    <group id="5" name="Комфорт">
-      <element id="45">Электро усилитель руля</element>
-      <element id="49">Запуск двигателя с кнопки</element>
-      <element id="51">Система доступа без ключа</element>
-      <element id="53">Регулировка руля в двух плоскостях</element>
-      <element id="61">Регулировка сиденья пассажира в двух плоскостях</element>
-      <element id="67">Электростеклоподъемники передние и задние</element>
-      <element id="220">Электроскладывание зеркал</element>
-    </group>
-    <group id="6" name="Управление климатом и обогрев">
-      <element id="74">Климат-контроль</element>
-      <element id="86">Подогрев сидений водителя и пассажира</element>
-      <element id="88">Подогрев руля</element>
-      <element id="92">Обогрев заднего стекла</element>
-    </group>
-    <group id="7" name="Мультимедиа и навигация">
-      <element id="101">USB</element>
-      <element id="102">MP3</element>
-      <element id="103">Видео</element>
-      <element id="109">Bluetooth</element>
-      <element id="115">6 колонок</element>
-      <element id="264">Электронная приборная панель</element>
-    </group>
-    <group id="8" name="Салон и интерьер">
-      <element id="242">Обивка салона экокожей</element>
-      <element id="132">Отделка кожей рычага КПП</element>
-      <element id="133">Кожаный руль</element>
-      <element id="136">Электрический люк</element>
-      <element id="137">Панорамная крыша</element>
-      <element id="138">Спортивные передние сидения</element>
-      <element id="141">Третий задний подголовник</element>
-    </group>
-    <group id="9" name="Экстерьер">
-      <element id="151">Литые легкосплавные диски</element>
-      <element id="160">Размер дисков 18″</element>
-    </group>
-    <group id="10" name="Освещение">
-      <element id="182">Светодиодные фары</element>
-      <element id="252">Автоматический корректор фар</element>
-    </group>
-    <group id="12" name="Комплектность">
-      <element id="191">Сервисная книжка</element>
-      <element id="190">ПТС</element>
-      <element id="203">2 комплекта ключей</element>
-    </group>
-  </equipment>
-  <photos>
-    <photo>https://s1.maxposter.ru/photo/6371/5638170/orig/b4ad324a5efa953dde75fb31c2462694.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638170/orig/d5196809186f00794fae8fa94bd1bbea.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638170/orig/8bc03e2c6969dd34de8fe78897545acc.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638170/orig/711011354d5d4f1fd485cddf17a9b121.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638170/orig/532ddf195694d0570fdc4c319a8e7e70.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638170/orig/e6b969b0fc5fbf5a616032582a466f06.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638170/orig/9faaaeca6abc431840d2b2e99a276418.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638170/orig/f777defcb05dcc226013176cd19af4e5.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638170/orig/c6d915800393ff3559e6e8d22c0bf1f9.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638170/orig/d62ab92349daa1e5d737e1bb917631b2.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638170/orig/fd199a02fa3ddfedb309db326e81f89a.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638170/orig/77fc2c8a2412e8890bf16b0183bf6c42.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638170/orig/e0855cb09cdc46c7d03f2e72cd4bcd66.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638170/orig/550e211bc81c1269c465ce42c6a11ff0.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638170/orig/7b03388fc69741ae249bcc23ec4c356c.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638170/orig/4a7db04d904336f42af3d76b4b30f2a5.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638170/orig/0467b7491fcbd471e6608ed26316edd7.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638170/orig/edf4c153b2ceec88daf0f0657c79f1c0.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638170/orig/bd8b27df45bf5650e4c04dbb4d201111.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638170/orig/5e2e5e7bdcdbb377ae0a293f79890791.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638170/orig/cd207cd528f8f257a008bc91522bf4e1.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638170/orig/967b08282ad21ccc9014c32d335ca038.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638170/orig/a965ebb8cd3f703c38c32243f76c3099.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638170/orig/792c908be594ded4e7002c1418056503.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638170/orig/fafb4246ace337e85ff7051b74969607.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638170/orig/4c5a635eb36768899d82c496852c4b2c.jpg?sid=42</photo>
-  </photos>
-  <phones>
-    <phone number="78469777772" callFrom="8" callTo="20">+7(846)977-77-72</phone>
-  </phones>
-  <brandColorCode />
-  <brandInteriorCode />
-  <certificationProgram />
-  <avitoId />
-  <autoruId />
-  <dromId />
-  <siteUrl>https://livan-alpha.ru/</siteUrl>
-  <avitoUrl />
-  <autoruUrl />
-  <dromUrl />
-  <siteUrls>
-    <url sourceId="0" source="Ссылка по шаблону">https://livan-alpha.ru/</url>
-  </siteUrls>
-  <acquisitionSource />
-  <acquisitionDate>2024-03-28</acquisitionDate>
-  <manufactureDate />
-  <status>
-    <inPresalePreparation />
-    <inRepair />
-    <inLogistics />
-    <inLegal />
-    <inProblems />
-    <inContent />
-    <reserved />
-  </status>
-<max_discount>320900</max_discount><sale_price>1919000</sale_price><url>https://livan-samara.ru/cars/livan-x6-pro-15-amt-147-лс-premium-white-2023/</url></vehicle>
-<vehicle>
-  <id>5638187</id>
-  <vin>LLV5C3B23P0500399</vin>
-  <uin />
-  <dealer id="6371">Автоцентр Альфа LIVAN</dealer>
-  <category id="1">Легковые</category>
-  <subcategory />
-  <type>new</type>
-  <year>2023</year>
-  <mark_id>Livan</mark_id><folder_id>X6 Pro</folder_id><generation />
-  <bodyConfiguration id="13330">Внедорожник 5 дв.</bodyConfiguration>
-  <modification_id>1.5 AMT (147 л.с.)</modification_id><complectation_name>Premium</complectation_name><brandComplectationCode />
-  <engineType>Бензин</engineType>
-  <engineVolume>1499</engineVolume>
-  <enginePower>147</enginePower>
-  <bodyNumber />
-  <body_type>SUV</body_type><bodyDoorCount>5</bodyDoorCount>
-  <seatCount />
-  <color>Серый</color><bodyColorMetallic>0</bodyColorMetallic>
-  <driveType>Передний</driveType>
-  <gearboxType>Робот</gearboxType>
-  <gearboxGearCount />
-  <wheel>Левый</wheel><run>0</run><mileageUnit>km</mileageUnit>
-  <price>2579900</price>
-  <previousPrice>2518235</previousPrice>
-  <specialOffer>0</specialOffer>
-  <specialOfferPreviousPrice />
-  <priceWithDiscount>1929000</priceWithDiscount>
-  <tradeinDiscount>500000</tradeinDiscount>
-  <creditDiscount>320900</creditDiscount>
-  <insuranceDiscount />
-  <availability>available</availability>
-  <ptsType />
-  <country />
-  <operatingTime />
-  <ecoClass />
-  <driveWheel />
-  <axisCount />
-  <brakeType />
-  <cabinType />
-  <maximumPermittedMass />
-  <saddleHeight />
-  <cabinSuspension />
-  <chassisSuspension />
-  <length />
-  <width />
-  <bodyVolume />
-  <bucketVolume />
-  <tractionClass />
-  <refrigeratorClass />
-  <craneArrowRadius />
-  <craneArrowLength />
-  <craneArrowPayload />
-  <loadHeight />
-  <photoCount>1</photoCount>
-  <description>Livan-суббренд GEELY, это значит, что схема производства, цепочка поставки компонентов, стандарты и уровень качества продукции высшего уровня.
-При покупке авто до конца февраля возможна индивидуальная скидка
-Автомобиль пpедставлeн официaльным дилером Livan в г. Самара В нашем автосалоне для вас: Большой выбор автомобилей Livan в наличии Выгодный обмен по программе Тrаdе-in Большой выбор автомобилей с пробегом Выкуп автомобилей Официальный сервисный центр Кузовной сервис Кредит на выгодных условиях Страхование КАСКО, ОСАГО
-Авторассрочка:12,24,36 мес. Лизинг (для юридических лиц) Дополнительное оборудование Стоимость указана с учетом скидок и предложений Мы рады видеть Вас ежедневно с 08:00 до 20:00 по адресу: Самара, Новоурицкая 22А.</description>
-  <address>Самара, Новоурицкая 22</address>
-  <ownersCount>0</ownersCount>
-  <vehicleCondition>excellent</vehicleCondition>
-  <equipment>
-    <group id="1" name="Активная безопасность">
-      <element id="1">Антиблокировочная система</element>
-      <element id="2">Антипробуксовочная система</element>
-      <element id="3">Система курсовой устойчивости</element>
-      <element id="5">Система помощи при экстренном торможении</element>
-      <element id="7">Датчик усталости водителя</element>
-      <element id="8">Датчик давления в шинах</element>
-      <element id="223">ЭРА-ГЛОНАСС</element>
-    </group>
-    <group id="2" name="Пассивная безопасность">
-      <element id="10">Подушки безопасности водителя</element>
-      <element id="12">Подушки безопасности пассажира</element>
-      <element id="14">Боковые передние подушки безопасности</element>
-      <element id="16">Оконные шторки безопасности</element>
-      <element id="18">Блокировка замков задних дверей</element>
-      <element id="19">Система крепления детских автокресел</element>
-    </group>
-    <group id="3" name="Противоугонная система">
-      <element id="24">Иммобилайзер</element>
-      <element id="25">Центральный замок</element>
-    </group>
-    <group id="4" name="Помощь при вождении">
-      <element id="26">Бортовой компьютер</element>
-      <element id="30">Парктроник задний</element>
-      <element id="33">Камера заднего вида</element>
-      <element id="36">Система помощи при старте в гору</element>
-      <element id="225">Система помощи при спуске с горы</element>
-      <element id="41">Датчик света</element>
-    </group>
-    <group id="5" name="Комфорт">
-      <element id="43">Усилитель руля</element>
-      <element id="49">Запуск двигателя с кнопки</element>
-      <element id="50">Система “старт-стоп”</element>
-      <element id="51">Система доступа без ключа</element>
-      <element id="58">Электрорегулировка сиденья водителя</element>
-      <element id="67">Электростеклоподъемники передние и задние</element>
-      <element id="68">Электропривод зеркал</element>
-    </group>
-    <group id="6" name="Управление климатом и обогрев">
-      <element id="75">Климат-контроль 1-зонный</element>
-      <element id="86">Подогрев сидений водителя и пассажира</element>
-      <element id="89">Обогрев зеркал</element>
-    </group>
-    <group id="7" name="Мультимедиа и навигация">
-      <element id="101">USB</element>
-      <element id="105">TV</element>
-      <element id="109">Bluetooth</element>
-      <element id="264">Электронная приборная панель</element>
-      <element id="121">Мультифункциональное рулевое колесо</element>
-      <element id="123">Розетка 12V</element>
-    </group>
-    <group id="8" name="Салон и интерьер">
-      <element id="126">Кожаная обивка салона</element>
-      <element id="134">Люк</element>
-      <element id="137">Панорамная крыша</element>
-      <element id="141">Третий задний подголовник</element>
-      <element id="143">Передний центральный подлокотник</element>
-    </group>
-    <group id="9" name="Экстерьер">
-      <element id="160">Размер дисков 18″</element>
-    </group>
-    <group id="10" name="Освещение">
-      <element id="182">Светодиодные фары</element>
-      <element id="185">Огни дневного хода</element>
-    </group>
-  </equipment>
-  <photos>
-    <photo>https://s1.maxposter.ru/photo/6371/5638187/orig/1d9a5e1897b38e6af536432c5590ec72.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638187/orig/df3a6c8b19316717ea023c03a147bcc2.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638187/orig/cb79057daf2e27e36f5d4ceeb501e89b.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638187/orig/df6670fcb52d1c0450d391b326227ca8.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638187/orig/3675b49934c2d77e8e7143aabbdca0bd.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638187/orig/1cbaca7198a5c2a55195b2b9b18abf4f.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638187/orig/95152e5b35bf2ed38a0fb0e57402a0b7.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638187/orig/16def2da9a2e52942340d0ec7e22ebf2.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638187/orig/0004a4f641aa418f46626ccab0674839.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638187/orig/dacb45da7c536e6d17d933481eb0a1cd.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638187/orig/455acfe21ef2e350b557a0c1eb33ab64.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638187/orig/9d3cb5b76372a5462218aa496f573a56.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638187/orig/054e1229d4aa58b67851bd425126ff8e.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638187/orig/0ffcbb260012206af088ec5e90fc9ee0.jpg?sid=42</photo>
-  </photos>
-  <phones>
-    <phone number="78469777772" callFrom="8" callTo="20">+7(846)977-77-72</phone>
-  </phones>
-  <brandColorCode />
-  <brandInteriorCode />
-  <certificationProgram />
-  <avitoId />
-  <autoruId />
-  <dromId />
-  <siteUrl>https://livan-alpha.ru/</siteUrl>
-  <avitoUrl />
-  <autoruUrl />
-  <dromUrl />
-  <siteUrls>
-    <url sourceId="0" source="Ссылка по шаблону">https://livan-alpha.ru/</url>
-  </siteUrls>
-  <acquisitionSource />
-  <acquisitionDate>2024-03-28</acquisitionDate>
-  <manufactureDate />
-  <status>
-    <inPresalePreparation />
-    <inRepair />
-    <inLogistics />
-    <inLegal />
-    <inProblems />
-    <inContent />
-    <reserved />
-  </status>
-<max_discount>820900</max_discount><sale_price>1929000</sale_price><url>https://livan-samara.ru/cars/livan-x6-pro-15-amt-147-лс-premium-grey-2023/</url></vehicle>
-<vehicle>
-  <id>5638417</id>
-  <vin>LLV5C3B20P0500330</vin>
-  <uin />
-  <dealer id="6371">Автоцентр Альфа LIVAN</dealer>
-  <category id="1">Легковые</category>
-  <subcategory />
-  <type>new</type>
-  <year>2023</year>
-  <mark_id>Livan</mark_id><folder_id>X6 Pro</folder_id><generation />
-  <bodyConfiguration id="13330">Внедорожник 5 дв.</bodyConfiguration>
-  <modification_id>1.5 AMT (147 л.с.)</modification_id><complectation_name>Premium</complectation_name><brandComplectationCode />
-  <engineType>Бензин</engineType>
-  <engineVolume>1499</engineVolume>
-  <enginePower>147</enginePower>
-  <bodyNumber />
-  <body_type>SUV</body_type><bodyDoorCount>5</bodyDoorCount>
-  <seatCount />
-  <color>Синий</color><bodyColorMetallic>1</bodyColorMetallic>
-  <driveType>Передний</driveType>
-  <gearboxType>Робот</gearboxType>
-  <gearboxGearCount />
-  <wheel>Левый</wheel><run>0</run><mileageUnit>km</mileageUnit>
-  <price>2749900</price>
-  <previousPrice>2579900</previousPrice>
-  <specialOffer>0</specialOffer>
-  <specialOfferPreviousPrice />
-  <priceWithDiscount>1929000</priceWithDiscount>
-  <tradeinDiscount>500000</tradeinDiscount>
-  <creditDiscount>320900</creditDiscount>
-  <insuranceDiscount />
-  <availability>available</availability>
-  <ptsType />
-  <country />
-  <operatingTime />
-  <ecoClass />
-  <driveWheel />
-  <axisCount />
-  <brakeType />
-  <cabinType />
-  <maximumPermittedMass />
-  <saddleHeight />
-  <cabinSuspension />
-  <chassisSuspension />
-  <length />
-  <width />
-  <bodyVolume />
-  <bucketVolume />
-  <tractionClass />
-  <refrigeratorClass />
-  <craneArrowRadius />
-  <craneArrowLength />
-  <craneArrowPayload />
-  <loadHeight />
-  <photoCount>1</photoCount>
-  <description>Livan-суббренд GEELY, это значит, что схема производства, цепочка поставки компонентов, стандарты и уровень качества продукции высшего уровня.
-При покупке авто до конца февраля возможна индивидуальная скидка
-Автомобиль пpедставлeн официaльным дилером Livan в г. Самара В нашем автосалоне для вас: Большой выбор автомобилей Livan в наличии Выгодный обмен по программе Тrаdе-in Большой выбор автомобилей с пробегом Выкуп автомобилей Официальный сервисный центр Кузовной сервис Кредит на выгодных условиях Страхование КАСКО, ОСАГО
-Авторассрочка:12,24,36 мес. Лизинг (для юридических лиц) Дополнительное оборудование Стоимость указана с учетом скидок и предложений Мы рады видеть Вас ежедневно с 08:00 до 20:00 по адресу: Самара, Новоурицкая 22А.</description>
-  <address>Самара, Новоурицкая 22</address>
-  <ownersCount>0</ownersCount>
-  <vehicleCondition>excellent</vehicleCondition>
-  <equipment>
-    <group id="1" name="Активная безопасность">
-      <element id="1">Антиблокировочная система</element>
-      <element id="2">Антипробуксовочная система</element>
-      <element id="3">Система курсовой устойчивости</element>
-      <element id="5">Система помощи при экстренном торможении</element>
-      <element id="7">Датчик усталости водителя</element>
-      <element id="8">Датчик давления в шинах</element>
-      <element id="223">ЭРА-ГЛОНАСС</element>
-    </group>
-    <group id="2" name="Пассивная безопасность">
-      <element id="10">Подушки безопасности водителя</element>
-      <element id="12">Подушки безопасности пассажира</element>
-      <element id="14">Боковые передние подушки безопасности</element>
-      <element id="16">Оконные шторки безопасности</element>
-      <element id="18">Блокировка замков задних дверей</element>
-      <element id="19">Система крепления детских автокресел</element>
-    </group>
-    <group id="3" name="Противоугонная система">
-      <element id="24">Иммобилайзер</element>
-      <element id="25">Центральный замок</element>
-    </group>
-    <group id="4" name="Помощь при вождении">
-      <element id="26">Бортовой компьютер</element>
-      <element id="30">Парктроник задний</element>
-      <element id="33">Камера заднего вида</element>
-      <element id="36">Система помощи при старте в гору</element>
-      <element id="225">Система помощи при спуске с горы</element>
-      <element id="41">Датчик света</element>
-    </group>
-    <group id="5" name="Комфорт">
-      <element id="43">Усилитель руля</element>
-      <element id="49">Запуск двигателя с кнопки</element>
-      <element id="50">Система “старт-стоп”</element>
-      <element id="51">Система доступа без ключа</element>
-      <element id="58">Электрорегулировка сиденья водителя</element>
-      <element id="67">Электростеклоподъемники передние и задние</element>
-      <element id="68">Электропривод зеркал</element>
-    </group>
-    <group id="6" name="Управление климатом и обогрев">
-      <element id="75">Климат-контроль 1-зонный</element>
-      <element id="86">Подогрев сидений водителя и пассажира</element>
-      <element id="89">Обогрев зеркал</element>
-    </group>
-    <group id="7" name="Мультимедиа и навигация">
-      <element id="101">USB</element>
-      <element id="105">TV</element>
-      <element id="109">Bluetooth</element>
-      <element id="264">Электронная приборная панель</element>
-      <element id="121">Мультифункциональное рулевое колесо</element>
-      <element id="123">Розетка 12V</element>
-    </group>
-    <group id="8" name="Салон и интерьер">
-      <element id="126">Кожаная обивка салона</element>
-      <element id="134">Люк</element>
-      <element id="137">Панорамная крыша</element>
-      <element id="141">Третий задний подголовник</element>
-      <element id="143">Передний центральный подлокотник</element>
-    </group>
-    <group id="9" name="Экстерьер">
-      <element id="160">Размер дисков 18″</element>
-    </group>
-    <group id="10" name="Освещение">
-      <element id="182">Светодиодные фары</element>
-      <element id="185">Огни дневного хода</element>
-    </group>
-  </equipment>
-  <photos>
-    <photo>https://s1.maxposter.ru/photo/6371/5638417/orig/4800d14db3cda2dc5b9ae0391cc2de6b.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638417/orig/8821d16dcf7a134ef2eec89e658b63d8.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638417/orig/639a96a47f45a6abdef1f987aba181ae.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638417/orig/a93a0b596ffe7fd6441e9c3d5a836bac.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638417/orig/ed429586c11e90d25954c2297577868c.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638417/orig/ff910b1340f0b50bcc94b590370a7a14.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638417/orig/224369a4642948272175ff920cced587.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638417/orig/1c3f1495bffcfbc8afdf69b0eb25dda0.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638417/orig/d14acad63ee5ddebf014114184e60eef.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638417/orig/572dcf6b9bc3ef7c5275787972c3be60.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638417/orig/ef0a82ed34fd435fa0258db4177efd18.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638417/orig/46c1b008d28b2fa52659764832a0a539.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638417/orig/efcdc8180bb295eb6957b8350a160532.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638417/orig/9569d7f441f9298cea28cdbe052a312a.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638417/orig/63fbb58c9e64a5e88699e3065d633e31.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638417/orig/423f81b4bf9ae25b613835da93835db6.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638417/orig/a20de1fc217bbcdf6ca39f75288bfa54.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638417/orig/c9cec31185e705f4b431be2aa86b87d8.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638417/orig/35775f829fcb4aac453563a5f3e94b9e.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638417/orig/e00efce606e643b316105f19d563a7e4.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638417/orig/76d446e6d6d36ffd05e4d684f3c65cbb.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638417/orig/fce1dde2caf57cdbb7ae92035ea9a677.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638417/orig/e031df2aa935083b395e968d7babcb4c.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638417/orig/e1a991ff7c5aa5b85377d66ac610d76a.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638417/orig/5358bf113c404f04aa339530ca9e5ae9.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638417/orig/f996e13d73f9cf292827cd274f56c500.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638417/orig/38498175eb3d5be53723aaa5d005df2e.jpg?sid=42</photo>
-  </photos>
-  <phones>
-    <phone number="78469777772" callFrom="8" callTo="20">+7(846)977-77-72</phone>
-  </phones>
-  <brandColorCode />
-  <brandInteriorCode />
-  <certificationProgram />
-  <avitoId />
-  <autoruId />
-  <dromId />
-  <siteUrl>https://livan-alpha.ru/</siteUrl>
-  <avitoUrl />
-  <autoruUrl />
-  <dromUrl />
-  <siteUrls>
-    <url sourceId="0" source="Ссылка по шаблону">https://livan-alpha.ru/</url>
-  </siteUrls>
-  <acquisitionSource />
-  <acquisitionDate>2024-03-28</acquisitionDate>
-  <manufactureDate />
-  <status>
-    <inPresalePreparation />
-    <inRepair />
-    <inLogistics />
-    <inLegal />
-    <inProblems />
-    <inContent />
-    <reserved />
-  </status>
-<max_discount>820900</max_discount><sale_price>1929000</sale_price><url>https://livan-samara.ru/cars/livan-x6-pro-15-amt-147-лс-premium-blue-2023/</url></vehicle>
-<vehicle>
-  <id>5638440</id>
-  <vin>LLV2C3B21P0203781</vin>
-  <uin />
-  <dealer id="6371">Автоцентр Альфа LIVAN</dealer>
-  <category id="1">Легковые</category>
-  <subcategory />
-  <type>new</type>
-  <year>2023</year>
-  <mark_id>Livan</mark_id><folder_id>X3 Pro</folder_id><generation />
-  <bodyConfiguration id="12759">Внедорожник 5 дв.</bodyConfiguration>
-  <modification_id>1.5 CVT (103 л.с.)</modification_id><complectation_name>Luxury</complectation_name><brandComplectationCode />
-  <engineType>Бензин</engineType>
-  <engineVolume>1498</engineVolume>
-  <enginePower>103</enginePower>
-  <bodyNumber />
-  <body_type>SUV</body_type><bodyDoorCount>5</bodyDoorCount>
-  <seatCount />
-  <color>Синий</color><bodyColorMetallic>1</bodyColorMetallic>
-  <driveType>Передний</driveType>
-  <gearboxType>Вариатор</gearboxType>
-  <gearboxGearCount />
-  <wheel>Левый</wheel><run>0</run><mileageUnit>km</mileageUnit>
-  <price>1779900</price>
-  <previousPrice />
-  <specialOffer>0</specialOffer>
-  <specialOfferPreviousPrice />
-  <priceWithDiscount>1489900</priceWithDiscount>
-  <tradeinDiscount>250000</tradeinDiscount>
-  <creditDiscount>150000</creditDiscount>
-  <insuranceDiscount />
-  <availability>available</availability>
-  <ptsType />
-  <country />
-  <operatingTime />
-  <ecoClass />
-  <driveWheel />
-  <axisCount />
-  <brakeType />
-  <cabinType />
-  <maximumPermittedMass />
-  <saddleHeight />
-  <cabinSuspension />
-  <chassisSuspension />
-  <length />
-  <width />
-  <bodyVolume />
-  <bucketVolume />
-  <tractionClass />
-  <refrigeratorClass />
-  <craneArrowRadius />
-  <craneArrowLength />
-  <craneArrowPayload />
-  <loadHeight />
-  <photoCount>1</photoCount>
-  <description>Livan-суббренд GEELY, это значит, что схема производства, цепочка поставки компонентов, стандарты и уровень качества продукции высшего уровня.
-При покупке авто до конца февраля возможна индивидуальная скидка
-Автомобиль пpедставлeн официaльным дилером Livan в г. Самара В нашем автосалоне для вас: Большой выбор автомобилей Livan в наличии Выгодный обмен по программе Тrаdе-in Большой выбор автомобилей с пробегом Выкуп автомобилей Официальный сервисный центр Кузовной сервис Кредит на выгодных условиях Страхование КАСКО, ОСАГО
-Авторассрочка:12,24,36 мес. Лизинг (для юридических лиц) Дополнительное оборудование Стоимость указана с учетом скидок и предложений Мы рады видеть Вас ежедневно с 08:00 до 20:00 по адресу: Самара, Новоурицкая 22А.</description>
-  <address>Самара, Новоурицкая 22</address>
-  <ownersCount>0</ownersCount>
-  <vehicleCondition>excellent</vehicleCondition>
-  <equipment>
-    <group id="1" name="Активная безопасность">
-      <element id="1">Антиблокировочная система</element>
-      <element id="2">Антипробуксовочная система</element>
-      <element id="3">Система курсовой устойчивости</element>
-      <element id="5">Система помощи при экстренном торможении</element>
-      <element id="8">Датчик давления в шинах</element>
-      <element id="223">ЭРА-ГЛОНАСС</element>
-    </group>
-    <group id="2" name="Пассивная безопасность">
-      <element id="10">Подушки безопасности водителя</element>
-      <element id="12">Подушки безопасности пассажира</element>
-      <element id="18">Блокировка замков задних дверей</element>
-      <element id="19">Система крепления детских автокресел</element>
-    </group>
-    <group id="3" name="Противоугонная система">
-      <element id="24">Иммобилайзер</element>
-      <element id="25">Центральный замок</element>
-    </group>
-    <group id="4" name="Помощь при вождении">
-      <element id="26">Бортовой компьютер</element>
-      <element id="27">Круиз-контроль</element>
-      <element id="30">Парктроник задний</element>
-      <element id="33">Камера заднего вида</element>
-      <element id="36">Система помощи при старте в гору</element>
-      <element id="41">Датчик света</element>
-    </group>
-    <group id="5" name="Комфорт">
-      <element id="43">Усилитель руля</element>
-      <element id="49">Запуск двигателя с кнопки</element>
-      <element id="51">Система доступа без ключа</element>
-      <element id="52">Регулировка руля</element>
-      <element id="57">Регулировка сиденья водителя в двух плоскостях</element>
-      <element id="67">Электростеклоподъемники передние и задние</element>
-      <element id="68">Электропривод зеркал</element>
-    </group>
-    <group id="6" name="Управление климатом и обогрев">
-      <element id="73">Кондиционер</element>
-      <element id="86">Подогрев сидений водителя и пассажира</element>
-      <element id="89">Обогрев зеркал</element>
-    </group>
-    <group id="7" name="Мультимедиа и навигация">
-      <element id="101">USB</element>
-      <element id="105">TV</element>
-      <element id="106">Функция Apple CarPlay</element>
-      <element id="107">Функция Android Auto</element>
-      <element id="109">Bluetooth</element>
-      <element id="121">Мультифункциональное рулевое колесо</element>
-      <element id="123">Розетка 12V</element>
-    </group>
-    <group id="8" name="Салон и интерьер">
-      <element id="126">Кожаная обивка салона</element>
-      <element id="132">Отделка кожей рычага КПП</element>
-      <element id="134">Люк</element>
-      <element id="139">Складывающееся заднее сидение</element>
-      <element id="143">Передний центральный подлокотник</element>
-    </group>
-    <group id="9" name="Экстерьер">
-      <element id="158">Размер дисков 16″</element>
-      <element id="174">Рейлинги на крыше</element>
-    </group>
-    <group id="10" name="Освещение">
-      <element id="185">Огни дневного хода</element>
-    </group>
-  </equipment>
-  <photos>
-    <photo>https://s1.maxposter.ru/photo/6371/5638440/orig/29fba98423e9dc43de49647154e4b4ed.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638440/orig/071118db87cda549ab9088d1625c8500.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638440/orig/dca64d171ac28ddf359b0838028dd45d.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638440/orig/f3071e571841579b223208b54dfa70c2.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638440/orig/45596dce8adc9333b4951077799d3d82.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638440/orig/61a80ff4ac746a3e0ba27a9d68f55f30.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638440/orig/8c2c737ef2418d7d026d9565f6fac0a0.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638440/orig/24f764e77b497ddb0eef4d3ed7827dd4.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638440/orig/bb7174348d66002414fb5198c2950547.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638440/orig/aba7330233f7e09a94cd6c2d653e7f49.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638440/orig/efc256bf5c9f0b380f2c6b5fc936168b.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638440/orig/26408d9939831b59e5daac65a7fad882.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638440/orig/59eb7adfa97c4d7a597171978a84d22e.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638440/orig/fbb24c8383c923c863918bf353eee03b.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638440/orig/fcd1a1aa35e102106d3054ffcf6ea67e.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638440/orig/71a693c908297e3347ff9f3b8f01b65a.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5638440/orig/0357ac0ff1ba9f302827b05b8b12cd17.jpg?sid=42</photo>
-  </photos>
-  <phones>
-    <phone number="78469777772" callFrom="8" callTo="20">+7(846)977-77-72</phone>
-  </phones>
-  <brandColorCode />
-  <brandInteriorCode />
-  <certificationProgram />
-  <avitoId />
-  <autoruId />
-  <dromId />
-  <siteUrl>https://livan-alpha.ru/</siteUrl>
-  <avitoUrl />
-  <autoruUrl />
-  <dromUrl />
-  <siteUrls>
-    <url sourceId="0" source="Ссылка по шаблону">https://livan-alpha.ru/</url>
-  </siteUrls>
-  <acquisitionSource />
-  <acquisitionDate>2024-03-28</acquisitionDate>
-  <manufactureDate />
-  <status>
-    <inPresalePreparation />
-    <inRepair />
-    <inLogistics />
-    <inLegal />
-    <inProblems />
-    <inContent />
-    <reserved />
-  </status>
-<max_discount>400000</max_discount><sale_price>1489900</sale_price><url>https://livan-samara.ru/cars/livan-x3-pro-15-cvt-103-лс-luxury-blue-2023/</url></vehicle>
-<vehicle>
-  <id>5698201</id>
-  <vin>LLV2A3B21P0300520</vin>
-  <uin />
-  <dealer id="6371">Автоцентр Альфа LIVAN</dealer>
-  <category id="1">Легковые</category>
-  <subcategory />
-  <type>new</type>
-  <year>2023</year>
-  <mark_id>Livan</mark_id><folder_id>S6 Pro</folder_id><generation />
-  <bodyConfiguration id="13336">Седан</bodyConfiguration>
-  <modification_id>1.5 AMT (147 л.с.)</modification_id><complectation_name>Premium</complectation_name><brandComplectationCode />
-  <engineType>Бензин</engineType>
-  <engineVolume>1499</engineVolume>
-  <enginePower>147</enginePower>
-  <bodyNumber />
-  <body_type>sedan</body_type><bodyDoorCount>4</bodyDoorCount>
-  <seatCount>5</seatCount>
-  <color>Белый</color><bodyColorMetallic>1</bodyColorMetallic>
-  <driveType>Передний</driveType>
-  <gearboxType>Робот</gearboxType>
-  <gearboxGearCount />
-  <wheel>Левый</wheel><run>0</run><mileageUnit>km</mileageUnit>
-  <price>2639900</price>
-  <previousPrice />
-  <specialOffer>0</specialOffer>
-  <specialOfferPreviousPrice />
-  <priceWithDiscount>1769000</priceWithDiscount>
-  <tradeinDiscount>500000</tradeinDiscount>
-  <creditDiscount>370900</creditDiscount>
-  <insuranceDiscount />
-  <availability>available</availability>
-  <ptsType />
-  <country />
-  <operatingTime />
-  <ecoClass />
-  <driveWheel />
-  <axisCount />
-  <brakeType />
-  <cabinType />
-  <maximumPermittedMass />
-  <saddleHeight />
-  <cabinSuspension />
-  <chassisSuspension />
-  <length />
-  <width />
-  <bodyVolume />
-  <bucketVolume />
-  <tractionClass />
-  <refrigeratorClass />
-  <craneArrowRadius />
-  <craneArrowLength />
-  <craneArrowPayload />
-  <loadHeight />
-  <photoCount>1</photoCount>
-  <description />
-  <address>Самара, Новоурицкая 22</address>
-  <ownersCount>0</ownersCount>
-  <vehicleCondition>excellent</vehicleCondition>
-  <equipment>
-    <group id="1" name="Активная безопасность">
-      <element id="1">Антиблокировочная система</element>
-      <element id="2">Антипробуксовочная система</element>
-      <element id="3">Система курсовой устойчивости</element>
-      <element id="4">Система контроля слепых зон</element>
-      <element id="5">Система помощи при экстренном торможении</element>
-      <element id="7">Датчик усталости водителя</element>
-      <element id="8">Датчик давления в шинах</element>
-      <element id="223">ЭРА-ГЛОНАСС</element>
-    </group>
-    <group id="2" name="Пассивная безопасность">
-      <element id="10">Подушки безопасности водителя</element>
-      <element id="12">Подушки безопасности пассажира</element>
-      <element id="14">Боковые передние подушки безопасности</element>
-      <element id="16">Оконные шторки безопасности</element>
-      <element id="18">Блокировка замков задних дверей</element>
-      <element id="19">Система крепления детских автокресел</element>
-    </group>
-    <group id="3" name="Противоугонная система">
-      <element id="24">Иммобилайзер</element>
-      <element id="25">Центральный замок</element>
-    </group>
-    <group id="4" name="Помощь при вождении">
-      <element id="26">Бортовой компьютер</element>
-      <element id="31">Парктроник передний и задний</element>
-      <element id="33">Камера заднего вида</element>
-      <element id="34">Камера 360°</element>
-      <element id="36">Система помощи при старте в гору</element>
-      <element id="41">Датчик света</element>
-    </group>
-    <group id="5" name="Комфорт">
-      <element id="43">Усилитель руля</element>
-      <element id="49">Запуск двигателя с кнопки</element>
-      <element id="51">Система доступа без ключа</element>
-      <element id="52">Регулировка руля</element>
-      <element id="58">Электрорегулировка сиденья водителя</element>
-      <element id="67">Электростеклоподъемники передние и задние</element>
-      <element id="68">Электропривод зеркал</element>
-      <element id="69">Электропривод крышки багажника</element>
-    </group>
-    <group id="6" name="Управление климатом и обогрев">
-      <element id="75">Климат-контроль 1-зонный</element>
-      <element id="86">Подогрев сидений водителя и пассажира</element>
-      <element id="89">Обогрев зеркал</element>
-    </group>
-    <group id="7" name="Мультимедиа и навигация">
-      <element id="101">USB</element>
-      <element id="105">TV</element>
-      <element id="264">Электронная приборная панель</element>
-      <element id="121">Мультифункциональное рулевое колесо</element>
-    </group>
-    <group id="8" name="Салон и интерьер">
-      <element id="126">Кожаная обивка салона</element>
-      <element id="134">Люк</element>
-      <element id="139">Складывающееся заднее сидение</element>
-      <element id="141">Третий задний подголовник</element>
-      <element id="143">Передний центральный подлокотник</element>
-    </group>
-    <group id="9" name="Экстерьер">
-      <element id="151">Литые легкосплавные диски</element>
-      <element id="159">Размер дисков 17″</element>
-    </group>
-    <group id="10" name="Освещение">
-      <element id="182">Светодиодные фары</element>
-      <element id="185">Огни дневного хода</element>
-    </group>
-  </equipment>
-  <photos>
-    <photo>https://s1.maxposter.ru/photo/6371/5698201/orig/e5ea0c845bf3b3d8996f09a2d29809d0.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5698201/orig/744cf80e5c57f8d7c185f3afe3e04031.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5698201/orig/dfc07f56762303652608831fa8f66f5b.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5698201/orig/88ca3b28718e5bdc03af91f5bca51c77.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5698201/orig/190bada30ae5c50dc5e7c80f0b6a715b.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5698201/orig/f32c951941861a3d440be5d1ac729aea.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5698201/orig/b84c082c682e2751893f755481517fc3.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5698201/orig/88f6c54c4a141edd9cf611b87c2240b9.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5698201/orig/3f6833261fa8a5622ebed00ecd46b911.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5698201/orig/c21c3c1b97afd3807234b36a43cf328f.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5698201/orig/84cb6772a7934e47e42be402abc4b50f.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5698201/orig/87c401a6bb8d4e1b6d7bdc0b573ad3dd.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5698201/orig/2a5b90fac89ffed285f0bbcdd7a82178.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5698201/orig/f7eca850e51ac2a260adb805003e27ba.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5698201/orig/26eff1f38f0a3a7398f89fbd2dd0d8e6.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5698201/orig/861e38077b4ce8df3facdd2770b49e59.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5698201/orig/778ff1f944bd627177e4da728aabe45d.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5698201/orig/8a53998ae53a86c5c06bd06ad17420f3.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5698201/orig/b413aa1f4071773b65d3246b9d6fae72.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5698201/orig/741b4bb20dc50b0ad48e9b82294dc992.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5698201/orig/6570b390f8545c1295e89eb008257f3a.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5698201/orig/743e95853f5e68720eb9a2ee23c0010a.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5698201/orig/c57b8c5db678e68f6f5fe9de5a1113d2.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5698201/orig/5db4cd906b67fe88b7d462b3dd675652.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5698201/orig/00d798687f8d9823a6d6b2e851bef3bb.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5698201/orig/2c1b63b189375c727c5f79b016fb130b.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5698201/orig/e85d3cc466de1c6a8bf1f6621e891b65.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5698201/orig/97324f10fb7a6efd6a786695f7a6da7d.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5698201/orig/953dbacb6a97cd4147e78602b2f6023b.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5698201/orig/c25e3e54830051235ad778d14217a0e1.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5698201/orig/6527d570a4055b12d5438ee8bc1a7093.jpg?sid=42</photo>
-    <photo>https://s1.maxposter.ru/photo/6371/5698201/orig/8df075f816e0e9c975fd7549ca8e53dd.jpg?sid=42</photo>
-  </photos>
-  <phones>
-    <phone number="78469777772" callFrom="8" callTo="20">+7(846)977-77-72</phone>
-  </phones>
-  <brandColorCode>БЕЛЫЙ</brandColorCode>
-  <brandInteriorCode />
-  <certificationProgram />
-  <avitoId />
-  <autoruId />
-  <dromId />
-  <siteUrl>https://livan-alpha.ru/</siteUrl>
-  <avitoUrl />
-  <autoruUrl />
-  <dromUrl />
-  <siteUrls>
-    <url sourceId="0" source="Ссылка по шаблону">https://livan-alpha.ru/</url>
-  </siteUrls>
-  <acquisitionSource />
-  <acquisitionDate>2024-04-12</acquisitionDate>
-  <manufactureDate />
-  <status>
-    <inPresalePreparation />
-    <inRepair />
-    <inLogistics />
-    <inLegal />
-    <inProblems />
-    <inContent />
-    <reserved />
-  </status>
-<max_discount>870900</max_discount><sale_price>1769000</sale_price><url>https://livan-samara.ru/cars/livan-s6-pro-15-amt-147-лс-premium-white-2023/</url></vehicle>
-<vehicle>
   <id>5935226</id>
   <vin>LLV2C3B21P0201268</vin>
   <uin>LLV2C3B21P0201268</uin>
@@ -1114,8 +194,8 @@
   <gearboxType>Вариатор</gearboxType>
   <gearboxGearCount />
   <wheel>Левый</wheel><run>0</run><mileageUnit>km</mileageUnit>
-  <price>1729900</price>
-  <previousPrice />
+  <price>1889900</price>
+  <previousPrice>1729900</previousPrice>
   <specialOffer>0</specialOffer>
   <specialOfferPreviousPrice />
   <priceWithDiscount>1559900</priceWithDiscount>
@@ -1253,11 +333,11 @@
   <brandColorCode />
   <brandInteriorCode />
   <certificationProgram />
-  <avitoId />
+  <avitoId>4323957274</avitoId>
   <autoruId />
   <dromId />
   <siteUrl>https://livan-alpha.ru/</siteUrl>
-  <avitoUrl />
+  <avitoUrl>https://www.avito.ru/items/4323957274</avitoUrl>
   <autoruUrl />
   <dromUrl />
   <siteUrls>
@@ -1299,8 +379,8 @@
   <gearboxType>Вариатор</gearboxType>
   <gearboxGearCount />
   <wheel>Левый</wheel><run>0</run><mileageUnit>km</mileageUnit>
-  <price>1719900</price>
-  <previousPrice />
+  <price>1899900</price>
+  <previousPrice>1719900</previousPrice>
   <specialOffer>0</specialOffer>
   <specialOfferPreviousPrice />
   <priceWithDiscount>1669900</priceWithDiscount>
@@ -1465,4 +545,738 @@
     <reserved />
   </status>
 <max_discount>220000</max_discount><sale_price>1669900</sale_price><url>https://livan-samara.ru/cars/livan-x3-pro-15-cvt-103-лс-luxury-beige-2023/</url></vehicle>
+<vehicle>
+  <id>6244593</id>
+  <vin>LLV2C3B29P0206279</vin>
+  <uin>LLV2C3B29P0206279</uin>
+  <dealer id="6371">Автоцентр Альфа LIVAN</dealer>
+  <category id="1">Легковые</category>
+  <subcategory />
+  <type>new</type>
+  <year>2023</year>
+  <mark_id>Livan</mark_id><folder_id>X3 Pro</folder_id><generation />
+  <bodyConfiguration id="12759">Внедорожник 5 дв.</bodyConfiguration>
+  <modification_id>1.5 CVT (103 л.с.)</modification_id><complectation_name>Luxury</complectation_name><brandComplectationCode />
+  <engineType>Бензин</engineType>
+  <engineVolume>1498</engineVolume>
+  <enginePower>103</enginePower>
+  <bodyNumber />
+  <body_type>SUV</body_type><bodyDoorCount>5</bodyDoorCount>
+  <seatCount>5</seatCount>
+  <color>Серый</color><bodyColorMetallic>1</bodyColorMetallic>
+  <driveType>Передний</driveType>
+  <gearboxType>Вариатор</gearboxType>
+  <gearboxGearCount />
+  <wheel>Левый</wheel><run>0</run><mileageUnit>km</mileageUnit>
+  <price>1899900</price>
+  <previousPrice>1719900</previousPrice>
+  <specialOffer>0</specialOffer>
+  <specialOfferPreviousPrice />
+  <priceWithDiscount>1669900</priceWithDiscount>
+  <tradeinDiscount>100000</tradeinDiscount>
+  <creditDiscount>120000</creditDiscount>
+  <insuranceDiscount />
+  <availability>available</availability>
+  <ptsType />
+  <country />
+  <operatingTime />
+  <ecoClass />
+  <driveWheel />
+  <axisCount />
+  <brakeType />
+  <cabinType />
+  <maximumPermittedMass />
+  <saddleHeight />
+  <cabinSuspension />
+  <chassisSuspension />
+  <length />
+  <width />
+  <bodyVolume />
+  <bucketVolume />
+  <tractionClass />
+  <refrigeratorClass />
+  <craneArrowRadius />
+  <craneArrowLength />
+  <craneArrowPayload />
+  <loadHeight />
+  <photoCount>1</photoCount>
+  <description>Livan-суббренд GEELY, это значит, что схема производства, цепочка поставки компонентов, стандарты и уровень качества продукции высшего уровня.
+При покупке авто до конца февраля возможна индивидуальная скидка
+Автомобиль пpедставлeн официaльным дилером Livan в г. Самара В нашем автосалоне для вас: Большой выбор автомобилей Livan в наличии Выгодный обмен по программе Тrаdе-in Большой выбор автомобилей с пробегом Выкуп автомобилей Официальный сервисный центр Кузовной сервис Кредит на выгодных условиях Страхование КАСКО, ОСАГО
+Авторассрочка:12,24,36 мес. Лизинг (для юридических лиц) Дополнительное оборудование Стоимость указана с учетом скидок и предложений Мы рады видеть Вас ежедневно с 08:00 до 20:00 по адресу: Самара, Новоурицкая 22А.</description>
+  <address>Самара, Новоурицкая 22</address>
+  <ownersCount>0</ownersCount>
+  <vehicleCondition>excellent</vehicleCondition>
+  <equipment>
+    <group id="1" name="Активная безопасность">
+      <element id="1">Антиблокировочная система</element>
+      <element id="2">Антипробуксовочная система</element>
+      <element id="3">Система курсовой устойчивости</element>
+      <element id="5">Система помощи при экстренном торможении</element>
+      <element id="8">Датчик давления в шинах</element>
+      <element id="223">ЭРА-ГЛОНАСС</element>
+    </group>
+    <group id="2" name="Пассивная безопасность">
+      <element id="10">Подушки безопасности водителя</element>
+      <element id="12">Подушки безопасности пассажира</element>
+      <element id="18">Блокировка замков задних дверей</element>
+      <element id="19">Система крепления детских автокресел</element>
+    </group>
+    <group id="3" name="Противоугонная система">
+      <element id="24">Иммобилайзер</element>
+      <element id="25">Центральный замок</element>
+    </group>
+    <group id="4" name="Помощь при вождении">
+      <element id="26">Бортовой компьютер</element>
+      <element id="27">Круиз-контроль</element>
+      <element id="30">Парктроник задний</element>
+      <element id="33">Камера заднего вида</element>
+      <element id="36">Система помощи при старте в гору</element>
+      <element id="41">Датчик света</element>
+    </group>
+    <group id="5" name="Комфорт">
+      <element id="43">Усилитель руля</element>
+      <element id="49">Запуск двигателя с кнопки</element>
+      <element id="51">Система доступа без ключа</element>
+      <element id="52">Регулировка руля</element>
+      <element id="57">Регулировка сиденья водителя в двух плоскостях</element>
+      <element id="67">Электростеклоподъемники передние и задние</element>
+      <element id="68">Электропривод зеркал</element>
+    </group>
+    <group id="6" name="Управление климатом и обогрев">
+      <element id="73">Кондиционер</element>
+      <element id="86">Подогрев сидений водителя и пассажира</element>
+      <element id="89">Обогрев зеркал</element>
+    </group>
+    <group id="7" name="Мультимедиа и навигация">
+      <element id="101">USB</element>
+      <element id="105">TV</element>
+      <element id="106">Функция Apple CarPlay</element>
+      <element id="107">Функция Android Auto</element>
+      <element id="109">Bluetooth</element>
+      <element id="121">Мультифункциональное рулевое колесо</element>
+      <element id="123">Розетка 12V</element>
+    </group>
+    <group id="8" name="Салон и интерьер">
+      <element id="126">Кожаная обивка салона</element>
+      <element id="132">Отделка кожей рычага КПП</element>
+      <element id="134">Люк</element>
+      <element id="139">Складывающееся заднее сидение</element>
+      <element id="143">Передний центральный подлокотник</element>
+    </group>
+    <group id="9" name="Экстерьер">
+      <element id="158">Размер дисков 16″</element>
+      <element id="174">Рейлинги на крыше</element>
+    </group>
+    <group id="10" name="Освещение">
+      <element id="185">Огни дневного хода</element>
+    </group>
+  </equipment>
+  <photos>
+    <photo>https://s1.maxposter.ru/photo/6371/6244593/orig/75b1fcc40f561b879ef2d20932ca1b66.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244593/orig/40d2dbd25877b4c2c2cc2b8e56b97750.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244593/orig/e5d296734128031bf4576468c1a7c4ae.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244593/orig/dd14af449b3c1813355d0763fed17d1e.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244593/orig/0f12a322f5e049947d903fac3c1a68df.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244593/orig/8f5a85cc79db0d1e3ae10c637d15140b.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244593/orig/ee82b4007e9650140d86993c78acc655.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244593/orig/c330d6df2f030568d75061610f57f27f.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244593/orig/eb54f6ef7a6f8b835c0d7e5f3206e3b6.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244593/orig/d23db8f9d6b6063533a695eda191396d.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244593/orig/fd72863022a9ebf8a8c32de08d9b4910.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244593/orig/a2b50ca31a0e432886ef17a147052060.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244593/orig/789b7ec723517583e0c1829fec676f2b.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244593/orig/7ecd5bedc33076278a04762da95b4896.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244593/orig/05d3a353d75793109b74b916e6ef2f02.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244593/orig/f445c92bc89b1eff6e1ce23d6468dfd3.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244593/orig/8e2262afe72d563f5ec28b3d941900c7.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244593/orig/01aa67e3e768ccc6102a2b21656a59f0.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244593/orig/7b6c1a151536e20e00c20da87ea671e8.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244593/orig/ece04ca7cf18e1feb7b487f32c244019.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244593/orig/ef2aadf5d8ec2aaa544b4620a90f0365.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244593/orig/f6eadc31117e2bec9737e2b72d2a796a.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244593/orig/58051000b88f181f22d4b64db3d9db06.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244593/orig/bdb1cdef996592cc3d43eef771c1da09.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244593/orig/ab483bee2d20d4e445ade8be97cfc2f8.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244593/orig/14453a9a984e866ed7f32f052221e7d0.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244593/orig/46ba707d7052f904c8a568a118f303c9.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244593/orig/098d640e84f0c5dd8b25a786e4315015.jpg?sid=42</photo>
+  </photos>
+  <phones>
+    <phone number="78469777772" callFrom="8" callTo="20">+7(846)977-77-72</phone>
+  </phones>
+  <brandColorCode />
+  <brandInteriorCode />
+  <certificationProgram />
+  <avitoId />
+  <autoruId />
+  <dromId />
+  <siteUrl>https://livan-alpha.ru/</siteUrl>
+  <avitoUrl />
+  <autoruUrl />
+  <dromUrl />
+  <siteUrls>
+    <url sourceId="0" source="Ссылка по шаблону">https://livan-alpha.ru/</url>
+  </siteUrls>
+  <acquisitionSource />
+  <acquisitionDate>2024-09-12</acquisitionDate>
+  <manufactureDate />
+  <status>
+    <inPresalePreparation />
+    <inRepair />
+    <inLogistics />
+    <inLegal />
+    <inProblems />
+    <inContent />
+    <reserved />
+  </status>
+<max_discount>220000</max_discount><sale_price>1669900</sale_price><url>https://livan-samara.ru/cars/livan-x3-pro-15-cvt-103-лс-luxury-grey-2023/</url></vehicle>
+<vehicle>
+  <id>6244618</id>
+  <vin>LLV2C3B20P0205585</vin>
+  <uin>LLV2C3B20P0205585</uin>
+  <dealer id="6371">Автоцентр Альфа LIVAN</dealer>
+  <category id="1">Легковые</category>
+  <subcategory />
+  <type>new</type>
+  <year>2023</year>
+  <mark_id>Livan</mark_id><folder_id>X3 Pro</folder_id><generation />
+  <bodyConfiguration id="12759">Внедорожник 5 дв.</bodyConfiguration>
+  <modification_id>1.5 CVT (103 л.с.)</modification_id><complectation_name>Luxury</complectation_name><brandComplectationCode />
+  <engineType>Бензин</engineType>
+  <engineVolume>1498</engineVolume>
+  <enginePower>103</enginePower>
+  <bodyNumber />
+  <body_type>SUV</body_type><bodyDoorCount>5</bodyDoorCount>
+  <seatCount>5</seatCount>
+  <color>Синий</color><bodyColorMetallic>1</bodyColorMetallic>
+  <driveType>Передний</driveType>
+  <gearboxType>Вариатор</gearboxType>
+  <gearboxGearCount />
+  <wheel>Левый</wheel><run>0</run><mileageUnit>km</mileageUnit>
+  <price>1899900</price>
+  <previousPrice>1719900</previousPrice>
+  <specialOffer>0</specialOffer>
+  <specialOfferPreviousPrice />
+  <priceWithDiscount>1669900</priceWithDiscount>
+  <tradeinDiscount>100000</tradeinDiscount>
+  <creditDiscount>120000</creditDiscount>
+  <insuranceDiscount />
+  <availability>available</availability>
+  <ptsType />
+  <country />
+  <operatingTime />
+  <ecoClass />
+  <driveWheel />
+  <axisCount />
+  <brakeType />
+  <cabinType />
+  <maximumPermittedMass />
+  <saddleHeight />
+  <cabinSuspension />
+  <chassisSuspension />
+  <length />
+  <width />
+  <bodyVolume />
+  <bucketVolume />
+  <tractionClass />
+  <refrigeratorClass />
+  <craneArrowRadius />
+  <craneArrowLength />
+  <craneArrowPayload />
+  <loadHeight />
+  <photoCount>1</photoCount>
+  <description>Livan-суббренд GEELY, это значит, что схема производства, цепочка поставки компонентов, стандарты и уровень качества продукции высшего уровня.
+При покупке авто до конца февраля возможна индивидуальная скидка
+Автомобиль пpедставлeн официaльным дилером Livan в г. Самара В нашем автосалоне для вас: Большой выбор автомобилей Livan в наличии Выгодный обмен по программе Тrаdе-in Большой выбор автомобилей с пробегом Выкуп автомобилей Официальный сервисный центр Кузовной сервис Кредит на выгодных условиях Страхование КАСКО, ОСАГО
+Авторассрочка:12,24,36 мес. Лизинг (для юридических лиц) Дополнительное оборудование Стоимость указана с учетом скидок и предложений Мы рады видеть Вас ежедневно с 08:00 до 20:00 по адресу: Самара, Новоурицкая 22А.</description>
+  <address>Самара, Новоурицкая 22</address>
+  <ownersCount>0</ownersCount>
+  <vehicleCondition>excellent</vehicleCondition>
+  <equipment>
+    <group id="1" name="Активная безопасность">
+      <element id="1">Антиблокировочная система</element>
+      <element id="2">Антипробуксовочная система</element>
+      <element id="3">Система курсовой устойчивости</element>
+      <element id="5">Система помощи при экстренном торможении</element>
+      <element id="8">Датчик давления в шинах</element>
+      <element id="223">ЭРА-ГЛОНАСС</element>
+    </group>
+    <group id="2" name="Пассивная безопасность">
+      <element id="10">Подушки безопасности водителя</element>
+      <element id="12">Подушки безопасности пассажира</element>
+      <element id="18">Блокировка замков задних дверей</element>
+      <element id="19">Система крепления детских автокресел</element>
+    </group>
+    <group id="3" name="Противоугонная система">
+      <element id="24">Иммобилайзер</element>
+      <element id="25">Центральный замок</element>
+    </group>
+    <group id="4" name="Помощь при вождении">
+      <element id="26">Бортовой компьютер</element>
+      <element id="27">Круиз-контроль</element>
+      <element id="30">Парктроник задний</element>
+      <element id="33">Камера заднего вида</element>
+      <element id="36">Система помощи при старте в гору</element>
+      <element id="41">Датчик света</element>
+    </group>
+    <group id="5" name="Комфорт">
+      <element id="43">Усилитель руля</element>
+      <element id="49">Запуск двигателя с кнопки</element>
+      <element id="51">Система доступа без ключа</element>
+      <element id="52">Регулировка руля</element>
+      <element id="57">Регулировка сиденья водителя в двух плоскостях</element>
+      <element id="67">Электростеклоподъемники передние и задние</element>
+      <element id="68">Электропривод зеркал</element>
+    </group>
+    <group id="6" name="Управление климатом и обогрев">
+      <element id="73">Кондиционер</element>
+      <element id="86">Подогрев сидений водителя и пассажира</element>
+      <element id="89">Обогрев зеркал</element>
+    </group>
+    <group id="7" name="Мультимедиа и навигация">
+      <element id="101">USB</element>
+      <element id="105">TV</element>
+      <element id="106">Функция Apple CarPlay</element>
+      <element id="107">Функция Android Auto</element>
+      <element id="109">Bluetooth</element>
+      <element id="121">Мультифункциональное рулевое колесо</element>
+      <element id="123">Розетка 12V</element>
+    </group>
+    <group id="8" name="Салон и интерьер">
+      <element id="126">Кожаная обивка салона</element>
+      <element id="132">Отделка кожей рычага КПП</element>
+      <element id="134">Люк</element>
+      <element id="139">Складывающееся заднее сидение</element>
+      <element id="143">Передний центральный подлокотник</element>
+    </group>
+    <group id="9" name="Экстерьер">
+      <element id="158">Размер дисков 16″</element>
+      <element id="174">Рейлинги на крыше</element>
+    </group>
+    <group id="10" name="Освещение">
+      <element id="185">Огни дневного хода</element>
+    </group>
+  </equipment>
+  <photos>
+    <photo>https://s1.maxposter.ru/photo/6371/6244618/orig/23fe61518d81bc068f7782c1f67e093f.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244618/orig/8abe9d018e1e8d0df15906e31e411c75.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244618/orig/b7ca22044df27b705a89a2c14b6e096d.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244618/orig/363ee72588cb8f31246dc03b934e36da.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244618/orig/8aa08c5d2149a0dbebd2865950080c29.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244618/orig/044e814e71b6867d255055e199e3cb2d.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244618/orig/3ac2dffb9fb866f4d952821aed7858a7.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244618/orig/00656a304918d91d4843aa01291fb432.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244618/orig/93128085f45cc95c2f7be72b25573e7b.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244618/orig/fede572669a01cf80e91286fcaaa697d.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244618/orig/6c1ef7536a4db545a1ba496ea7a58f4d.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244618/orig/6930e477eca969e66c4f86be82057583.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244618/orig/d30e1cdd83e7e9c5b8fcacaa5f7125fb.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244618/orig/7eea73ddb407584c0c0b507a96110618.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244618/orig/8ea28e14630387c4b3d52cc925492646.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244618/orig/11bc13dbb86bfb225c702aab177f083a.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244618/orig/2676126e583c9c8f1efaf20d233f0035.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244618/orig/ada2e3079c293d148a114af2229e9a3d.jpg?sid=42</photo>
+  </photos>
+  <phones>
+    <phone number="78469777772" callFrom="8" callTo="20">+7(846)977-77-72</phone>
+  </phones>
+  <brandColorCode />
+  <brandInteriorCode />
+  <certificationProgram />
+  <avitoId />
+  <autoruId />
+  <dromId />
+  <siteUrl>https://livan-alpha.ru/</siteUrl>
+  <avitoUrl />
+  <autoruUrl />
+  <dromUrl />
+  <siteUrls>
+    <url sourceId="0" source="Ссылка по шаблону">https://livan-alpha.ru/</url>
+  </siteUrls>
+  <acquisitionSource />
+  <acquisitionDate>2024-09-12</acquisitionDate>
+  <manufactureDate />
+  <status>
+    <inPresalePreparation />
+    <inRepair />
+    <inLogistics />
+    <inLegal />
+    <inProblems />
+    <inContent />
+    <reserved />
+  </status>
+<max_discount>220000</max_discount><sale_price>1669900</sale_price><url>https://livan-samara.ru/cars/livan-x3-pro-15-cvt-103-лс-luxury-blue-2023/</url></vehicle>
+<vehicle>
+  <id>6244728</id>
+  <vin>LLV5C3B2XP0500626</vin>
+  <uin>LLV5C3B2XP0500626</uin>
+  <dealer id="6371">Автоцентр Альфа LIVAN</dealer>
+  <category id="1">Легковые</category>
+  <subcategory />
+  <type>new</type>
+  <year>2023</year>
+  <mark_id>Livan</mark_id><folder_id>X6 Pro</folder_id><generation />
+  <bodyConfiguration id="13330">Внедорожник 5 дв.</bodyConfiguration>
+  <modification_id>1.5 AMT (147 л.с.)</modification_id><complectation_name>Premium</complectation_name><brandComplectationCode />
+  <engineType>Бензин</engineType>
+  <engineVolume>1499</engineVolume>
+  <enginePower>147</enginePower>
+  <bodyNumber />
+  <body_type>SUV</body_type><bodyDoorCount>5</bodyDoorCount>
+  <seatCount>5</seatCount>
+  <color>Белый</color><bodyColorMetallic>0</bodyColorMetallic>
+  <driveType>Передний</driveType>
+  <gearboxType>Робот</gearboxType>
+  <gearboxGearCount />
+  <wheel>Левый</wheel><run>0</run><mileageUnit>km</mileageUnit>
+  <price>2739900</price>
+  <previousPrice>2234000</previousPrice>
+  <specialOffer>0</specialOffer>
+  <specialOfferPreviousPrice />
+  <priceWithDiscount>2179000</priceWithDiscount>
+  <tradeinDiscount>165000</tradeinDiscount>
+  <creditDiscount />
+  <insuranceDiscount />
+  <availability>available</availability>
+  <ptsType />
+  <country />
+  <operatingTime />
+  <ecoClass />
+  <driveWheel />
+  <axisCount />
+  <brakeType />
+  <cabinType />
+  <maximumPermittedMass />
+  <saddleHeight />
+  <cabinSuspension />
+  <chassisSuspension />
+  <length />
+  <width />
+  <bodyVolume />
+  <bucketVolume />
+  <tractionClass />
+  <refrigeratorClass />
+  <craneArrowRadius />
+  <craneArrowLength />
+  <craneArrowPayload />
+  <loadHeight />
+  <photoCount>1</photoCount>
+  <description>Livan-суббренд GEELY, это значит, что схема производства, цепочка поставки компонентов, стандарты и уровень качества продукции высшего уровня.
+При покупке авто до конца февраля возможна индивидуальная скидка
+Автомобиль пpедставлeн официaльным дилером Livan в г. Самара В нашем автосалоне для вас: Большой выбор автомобилей Livan в наличии Выгодный обмен по программе Тrаdе-in Большой выбор автомобилей с пробегом Выкуп автомобилей Официальный сервисный центр Кузовной сервис Кредит на выгодных условиях Страхование КАСКО, ОСАГО
+Авторассрочка:12,24,36 мес. Лизинг (для юридических лиц) Дополнительное оборудование Стоимость указана с учетом скидок и предложений Мы рады видеть Вас ежедневно с 08:00 до 20:00 по адресу: Самара, Новоурицкая 22А.</description>
+  <address>Самара, Новоурицкая 22</address>
+  <ownersCount>0</ownersCount>
+  <vehicleCondition>excellent</vehicleCondition>
+  <equipment>
+    <group id="1" name="Активная безопасность">
+      <element id="1">Антиблокировочная система</element>
+      <element id="2">Антипробуксовочная система</element>
+      <element id="3">Система курсовой устойчивости</element>
+      <element id="5">Система помощи при экстренном торможении</element>
+      <element id="7">Датчик усталости водителя</element>
+      <element id="8">Датчик давления в шинах</element>
+      <element id="223">ЭРА-ГЛОНАСС</element>
+    </group>
+    <group id="2" name="Пассивная безопасность">
+      <element id="10">Подушки безопасности водителя</element>
+      <element id="12">Подушки безопасности пассажира</element>
+      <element id="14">Боковые передние подушки безопасности</element>
+      <element id="16">Оконные шторки безопасности</element>
+      <element id="18">Блокировка замков задних дверей</element>
+      <element id="19">Система крепления детских автокресел</element>
+    </group>
+    <group id="3" name="Противоугонная система">
+      <element id="24">Иммобилайзер</element>
+      <element id="25">Центральный замок</element>
+    </group>
+    <group id="4" name="Помощь при вождении">
+      <element id="26">Бортовой компьютер</element>
+      <element id="30">Парктроник задний</element>
+      <element id="33">Камера заднего вида</element>
+      <element id="36">Система помощи при старте в гору</element>
+      <element id="225">Система помощи при спуске с горы</element>
+      <element id="41">Датчик света</element>
+    </group>
+    <group id="5" name="Комфорт">
+      <element id="43">Усилитель руля</element>
+      <element id="49">Запуск двигателя с кнопки</element>
+      <element id="50">Система “старт-стоп”</element>
+      <element id="51">Система доступа без ключа</element>
+      <element id="58">Электрорегулировка сиденья водителя</element>
+      <element id="67">Электростеклоподъемники передние и задние</element>
+      <element id="68">Электропривод зеркал</element>
+    </group>
+    <group id="6" name="Управление климатом и обогрев">
+      <element id="75">Климат-контроль 1-зонный</element>
+      <element id="86">Подогрев сидений водителя и пассажира</element>
+      <element id="89">Обогрев зеркал</element>
+    </group>
+    <group id="7" name="Мультимедиа и навигация">
+      <element id="101">USB</element>
+      <element id="105">TV</element>
+      <element id="109">Bluetooth</element>
+      <element id="264">Электронная приборная панель</element>
+      <element id="121">Мультифункциональное рулевое колесо</element>
+      <element id="123">Розетка 12V</element>
+    </group>
+    <group id="8" name="Салон и интерьер">
+      <element id="126">Кожаная обивка салона</element>
+      <element id="134">Люк</element>
+      <element id="137">Панорамная крыша</element>
+      <element id="141">Третий задний подголовник</element>
+      <element id="143">Передний центральный подлокотник</element>
+    </group>
+    <group id="9" name="Экстерьер">
+      <element id="160">Размер дисков 18″</element>
+    </group>
+    <group id="10" name="Освещение">
+      <element id="182">Светодиодные фары</element>
+      <element id="185">Огни дневного хода</element>
+    </group>
+  </equipment>
+  <photos>
+    <photo>https://s1.maxposter.ru/photo/6371/6244728/orig/305d83e2f80569ca13e689b9bd6b15f4.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244728/orig/607b72efcd0996c3c70be5b59dd09430.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244728/orig/2e9a9a5ff60a90b6570306b98a601803.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244728/orig/1ed63d128e6d3513bc42daca108f7fdf.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244728/orig/8da8aa339e173c8eb527a0be1517b334.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244728/orig/ec0f4f94c5a16ab22cf15b815d916b05.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244728/orig/92f7b541f372f9e9556d9052c7b80411.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244728/orig/a4cb3ba01a1418036ebe1d6e2967f7f9.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244728/orig/6d5679fc57b3eea3d0096d96cf346a7c.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244728/orig/7b10b7e9ab79a4fcaab21b5f124d20c1.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244728/orig/52273a9994780a3f222a6282d08e650c.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244728/orig/86fcb6c7e76476363c081a361abc0dfb.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244728/orig/94da9f5aa084595c97e505332bb61bc2.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244728/orig/58e99658a518f15e3eb9cd7e6e9c3d59.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244728/orig/61646f9c8aa06543de3c9910d55899c5.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244728/orig/76ded8ab4c61b03e980efef26ee3b1dd.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244728/orig/db5822ee47beae415ca78356565fafdd.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244728/orig/8020fb631b99b414a1f5449b097d1eb4.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244728/orig/b670b97673ebe5a966bc8ae051b59a8c.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244728/orig/bea77a6813ecd9edd48430ad91b0384c.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244728/orig/e37aaf9e3569e87f92f1718a012a141f.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244728/orig/3cd8eec7ff9a3e60a3c8308e44636be2.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244728/orig/03543921fb5de1c5f9a118d409b20561.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244728/orig/4395e7507c29aa096ab961406c126195.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244728/orig/38760753edcb133a5eac11b12a146c46.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244728/orig/c5d52da118586bbd110e245c36e8f845.jpg?sid=42</photo>
+  </photos>
+  <phones>
+    <phone number="78469777772" callFrom="8" callTo="20">+7(846)977-77-72</phone>
+  </phones>
+  <brandColorCode />
+  <brandInteriorCode />
+  <certificationProgram />
+  <avitoId />
+  <autoruId />
+  <dromId />
+  <siteUrl>https://livan-alpha.ru/</siteUrl>
+  <avitoUrl />
+  <autoruUrl />
+  <dromUrl />
+  <siteUrls>
+    <url sourceId="0" source="Ссылка по шаблону">https://livan-alpha.ru/</url>
+  </siteUrls>
+  <acquisitionSource />
+  <acquisitionDate>2024-09-12</acquisitionDate>
+  <manufactureDate />
+  <status>
+    <inPresalePreparation />
+    <inRepair />
+    <inLogistics />
+    <inLegal />
+    <inProblems />
+    <inContent />
+    <reserved />
+  </status>
+<max_discount>165000</max_discount><sale_price>2179000</sale_price><url>https://livan-samara.ru/cars/livan-x6-pro-15-amt-147-лс-premium-white-2023/</url></vehicle>
+<vehicle>
+  <id>6244735</id>
+  <vin>LLV5C3B23P0500760</vin>
+  <uin>LLV5C3B23P0500760</uin>
+  <dealer id="6371">Автоцентр Альфа LIVAN</dealer>
+  <category id="1">Легковые</category>
+  <subcategory />
+  <type>new</type>
+  <year>2023</year>
+  <mark_id>Livan</mark_id><folder_id>X6 Pro</folder_id><generation />
+  <bodyConfiguration id="13330">Внедорожник 5 дв.</bodyConfiguration>
+  <modification_id>1.5 AMT (147 л.с.)</modification_id><complectation_name>Premium</complectation_name><brandComplectationCode />
+  <engineType>petrol</engineType>
+  <engineVolume>1499</engineVolume>
+  <enginePower>147</enginePower>
+  <bodyNumber />
+  <body_type>suv</body_type><bodyDoorCount>5</bodyDoorCount>
+  <seatCount>5</seatCount>
+  <color>white</color><bodyColorMetallic>0</bodyColorMetallic>
+  <driveType>front</driveType>
+  <gearboxType>robotized</gearboxType>
+  <gearboxGearCount />
+  <wheel>left</wheel><run>0</run><mileageUnit>km</mileageUnit>
+  <price>2739900</price>
+  <previousPrice>2234000</previousPrice>
+  <specialOffer>0</specialOffer>
+  <specialOfferPreviousPrice />
+  <priceWithDiscount>2179000</priceWithDiscount>
+  <tradeinDiscount>165000</tradeinDiscount>
+  <creditDiscount />
+  <insuranceDiscount />
+  <availability>available</availability>
+  <ptsType />
+  <country />
+  <operatingTime />
+  <ecoClass />
+  <driveWheel />
+  <axisCount />
+  <brakeType />
+  <cabinType />
+  <maximumPermittedMass />
+  <saddleHeight />
+  <cabinSuspension />
+  <chassisSuspension />
+  <length />
+  <width />
+  <bodyVolume />
+  <bucketVolume />
+  <tractionClass />
+  <refrigeratorClass />
+  <craneArrowRadius />
+  <craneArrowLength />
+  <craneArrowPayload />
+  <loadHeight />
+  <photoCount>1</photoCount>
+  <description>Livan-суббренд GEELY, это значит, что схема производства, цепочка поставки компонентов, стандарты и уровень качества продукции высшего уровня.
+При покупке авто до конца февраля возможна индивидуальная скидка
+Автомобиль пpедставлeн официaльным дилером Livan в г. Самара В нашем автосалоне для вас: Большой выбор автомобилей Livan в наличии Выгодный обмен по программе Тrаdе-in Большой выбор автомобилей с пробегом Выкуп автомобилей Официальный сервисный центр Кузовной сервис Кредит на выгодных условиях Страхование КАСКО, ОСАГО
+Авторассрочка:12,24,36 мес. Лизинг (для юридических лиц) Дополнительное оборудование Стоимость указана с учетом скидок и предложений Мы рады видеть Вас ежедневно с 08:00 до 20:00 по адресу: Самара, Новоурицкая 22А.</description>
+  <address>Самара, Новоурицкая 22</address>
+  <ownersCount>0</ownersCount>
+  <vehicleCondition>excellent</vehicleCondition>
+  <equipment>
+    <group id="1" name="Активная безопасность">
+      <element id="1">Антиблокировочная система</element>
+      <element id="2">Антипробуксовочная система</element>
+      <element id="3">Система курсовой устойчивости</element>
+      <element id="5">Система помощи при экстренном торможении</element>
+      <element id="7">Датчик усталости водителя</element>
+      <element id="8">Датчик давления в шинах</element>
+      <element id="223">ЭРА-ГЛОНАСС</element>
+    </group>
+    <group id="2" name="Пассивная безопасность">
+      <element id="10">Подушки безопасности водителя</element>
+      <element id="12">Подушки безопасности пассажира</element>
+      <element id="14">Боковые передние подушки безопасности</element>
+      <element id="16">Оконные шторки безопасности</element>
+      <element id="18">Блокировка замков задних дверей</element>
+      <element id="19">Система крепления детских автокресел</element>
+    </group>
+    <group id="3" name="Противоугонная система">
+      <element id="24">Иммобилайзер</element>
+      <element id="25">Центральный замок</element>
+    </group>
+    <group id="4" name="Помощь при вождении">
+      <element id="26">Бортовой компьютер</element>
+      <element id="30">Парктроник задний</element>
+      <element id="33">Камера заднего вида</element>
+      <element id="36">Система помощи при старте в гору</element>
+      <element id="225">Система помощи при спуске с горы</element>
+      <element id="41">Датчик света</element>
+    </group>
+    <group id="5" name="Комфорт">
+      <element id="43">Усилитель руля</element>
+      <element id="49">Запуск двигателя с кнопки</element>
+      <element id="50">Система “старт-стоп”</element>
+      <element id="51">Система доступа без ключа</element>
+      <element id="58">Электрорегулировка сиденья водителя</element>
+      <element id="67">Электростеклоподъемники передние и задние</element>
+      <element id="68">Электропривод зеркал</element>
+    </group>
+    <group id="6" name="Управление климатом и обогрев">
+      <element id="75">Климат-контроль 1-зонный</element>
+      <element id="86">Подогрев сидений водителя и пассажира</element>
+      <element id="89">Обогрев зеркал</element>
+    </group>
+    <group id="7" name="Мультимедиа и навигация">
+      <element id="101">USB</element>
+      <element id="105">TV</element>
+      <element id="109">Bluetooth</element>
+      <element id="264">Электронная приборная панель</element>
+      <element id="121">Мультифункциональное рулевое колесо</element>
+      <element id="123">Розетка 12V</element>
+    </group>
+    <group id="8" name="Салон и интерьер">
+      <element id="126">Кожаная обивка салона</element>
+      <element id="134">Люк</element>
+      <element id="137">Панорамная крыша</element>
+      <element id="141">Третий задний подголовник</element>
+      <element id="143">Передний центральный подлокотник</element>
+    </group>
+    <group id="9" name="Экстерьер">
+      <element id="160">Размер дисков 18″</element>
+    </group>
+    <group id="10" name="Освещение">
+      <element id="182">Светодиодные фары</element>
+      <element id="185">Огни дневного хода</element>
+    </group>
+  </equipment>
+  <photos>
+    <photo>https://s1.maxposter.ru/photo/6371/6244735/orig/b54ab147036fc8428e79a92996f520b6.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244735/orig/91dd41dc095029621910f9690d20e206.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244735/orig/41c3bf047a1585013210115b772763e0.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244735/orig/c46e63e9f071a9e437bdc03fd0e59a18.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244735/orig/d83f9784ec68f28a86597f57a74fe337.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244735/orig/08c85fad3f40df94ae8e1b3c143e19e2.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244735/orig/f1d2a305b823b8491506f4d07170415d.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244735/orig/eaa8de8b53653b037fa141d70c01e041.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244735/orig/bd4975fd3d539bac758d6c5a7b24ddee.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244735/orig/7ee4a5e22c1c41f2bf38030cabd28c53.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244735/orig/9f13ed6d6b5d3d320af55dfc1d4ed25e.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244735/orig/00292741aa0ee14e5cafc561a6ce067a.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244735/orig/a6101c7d08ffeaf93e04eae33b9830bf.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244735/orig/e48b6ed39235663a06c9475ccb38bd66.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244735/orig/c8a3e06924459bd55ed3d8343270d745.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244735/orig/b317b949bb494826b5d2f188021256a9.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244735/orig/64b472d16ae71126e51048067d6d8aae.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244735/orig/796efa364922d1764c3e8fe918394190.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244735/orig/c454e221a6b4ab3ba721e221d728071f.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244735/orig/a6d2292d531e1ab2d2c64e13a9c1c3b4.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244735/orig/d21d0d029c7640ccd6bfda49a3428eb1.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244735/orig/279f7f537d393682b232676db9e25fdb.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244735/orig/ebb36417e0700c0f16eeb7b9b6a34911.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244735/orig/7ba701299498b5a017a614d9480b9bb7.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244735/orig/bdf46b016a0333b448abd4d2459f4e49.jpg?sid=42</photo>
+    <photo>https://s1.maxposter.ru/photo/6371/6244735/orig/9c325873eb595aa62986393815556c4f.jpg?sid=42</photo>
+  </photos>
+  <phones>
+    <phone number="78469777772" callFrom="8" callTo="20">+7(846)977-77-72</phone>
+  </phones>
+  <brandColorCode />
+  <brandInteriorCode />
+  <certificationProgram />
+  <avitoId />
+  <autoruId />
+  <dromId />
+  <siteUrl>https://livan-alpha.ru/</siteUrl>
+  <avitoUrl />
+  <autoruUrl />
+  <dromUrl />
+  <siteUrls>
+    <url sourceId="0" source="Ссылка по шаблону">https://livan-alpha.ru/</url>
+  </siteUrls>
+  <acquisitionSource />
+  <acquisitionDate>2024-09-12</acquisitionDate>
+  <manufactureDate />
+  <status>
+    <inPresalePreparation />
+    <inRepair />
+    <inLogistics />
+    <inLegal />
+    <inProblems />
+    <inContent />
+    <reserved />
+  </status>
+<max_discount>165000</max_discount><sale_price>2179000</sale_price><url>https://livan-samara.ru/cars/livan-x6-pro-15-amt-147-лс-premium-white-2023/</url></vehicle>
 </vehicles>
