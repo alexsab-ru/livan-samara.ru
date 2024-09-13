@@ -22,8 +22,8 @@
   <gearboxType>Робот</gearboxType>
   <gearboxGearCount />
   <wheel>Левый</wheel><run>0</run><mileageUnit>km</mileageUnit>
-  <price>2639900</price>
-  <previousPrice>2649900</previousPrice>
+  <price>2649900</price>
+  <previousPrice>2639900</previousPrice>
   <specialOffer>0</specialOffer>
   <specialOfferPreviousPrice />
   <priceWithDiscount>1769000</priceWithDiscount>
