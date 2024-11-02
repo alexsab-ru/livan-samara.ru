@@ -77,31 +77,61 @@ def duplicate_car(car, n, status = "в пути", offset = 0):
     
     return duplicates
 
+cars_available = int(os.getenv('CARS_AVAILABLE', 0))
+cars_ontheway = int(os.getenv('CARS_ONTHEWAY', 0))
+cars_toorder = int(os.getenv('CARS_TOORDER', 0))
 
 # Предполагаем, что у вас есть элементы с именами
 elements_to_localize = []
 # Предполагаем, что cars_element уже определён
 all_duplicates = []  # Список для хранения всех дубликатов
-
+# Создаем список машин для удаления
+cars_to_remove = []
+remove_mark_ids = [
+]
+remove_folder_ids = [
+]
 cars_element = root.find('cars')
 
 for car in cars_element:
+    should_remove = False
+    
+    # Проверяем mark_id только если список не пустой
+    if remove_mark_ids:
+        car_mark = car.find('mark_id').text
+        if car_mark in remove_mark_ids:
+            should_remove = True
+    
+    # Проверяем folder_id только если список не пустой
+    if remove_folder_ids:
+        car_folder = car.find('folder_id').text
+        if car_folder in remove_folder_ids:
+            should_remove = True
+    
+    if should_remove:
+        cars_to_remove.append(car)
+        continue  # Пропускаем остальные операции для этой машины
+
     unique_id = f"{build_unique_id(car, 'mark_id', 'folder_id', 'modification_id', 'complectation_name', 'color', 'year')}"
     unique_id = f"{process_unique_id(unique_id)}"
     print(f"Уникальный идентификатор: {unique_id}")
     create_child_element(car, 'url', f"https://{repo_name}/cars/{unique_id}/")
     
     # Создаем дубликаты, но не добавляем их сразу в cars_element
-    duplicates = duplicate_car(car, 0, "в наличии", 0)
+    duplicates = duplicate_car(car, cars_available, "в наличии", 0)
     all_duplicates.extend(duplicates)  # Добавляем дубликаты в отдельный список
     
-    duplicates = duplicate_car(car, 0, "в пути", 1)
+    duplicates = duplicate_car(car, cars_ontheway, "в пути", cars_available)
     all_duplicates.extend(duplicates)  # Добавляем дубликаты в отдельный список
     
-    duplicates = duplicate_car(car, 0, "на заказ", 8)
+    duplicates = duplicate_car(car, cars_toorder, "на заказ", cars_available+cars_ontheway)
     all_duplicates.extend(duplicates)  # Добавляем дубликаты в отдельный список
     
     # Добавляем дубликаты в отдельный список
+
+# Удаляем все не-BelGee машины
+for car in cars_to_remove:
+    cars_element.remove(car)
 
 # После окончания основного цикла добавляем все дубликаты в cars_element
 for new_car in all_duplicates:
