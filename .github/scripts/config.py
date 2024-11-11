@@ -11,6 +11,7 @@ model_mapping = {
             "White": "white.webp",
             "Red": "red.webp",
             "Blue": "blue.webp",
+            "Azure": "blue.webp",
             "Gray": "gray.webp",
             "Grey": "gray.webp",
         }},
