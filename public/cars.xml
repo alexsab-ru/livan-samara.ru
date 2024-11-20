@@ -384,8 +384,8 @@
   <gearboxType>robotized</gearboxType>
   <gearboxGearCount />
   <wheel>left</wheel><run>0</run><mileageUnit>km</mileageUnit>
-  <price>2234000</price>
-  <previousPrice />
+  <price>2739000</price>
+  <previousPrice>2234000</previousPrice>
   <specialOffer>0</specialOffer>
   <specialOfferPreviousPrice />
   <priceWithDiscount>2179000</priceWithDiscount>
@@ -569,8 +569,8 @@
   <gearboxType>robotized</gearboxType>
   <gearboxGearCount />
   <wheel>left</wheel><run>0</run><mileageUnit>km</mileageUnit>
-  <price>2234000</price>
-  <previousPrice />
+  <price>2739900</price>
+  <previousPrice>2234000</previousPrice>
   <specialOffer>0</specialOffer>
   <specialOfferPreviousPrice />
   <priceWithDiscount>2179000</priceWithDiscount>
@@ -754,8 +754,8 @@
   <gearboxType>Робот</gearboxType>
   <gearboxGearCount />
   <wheel>Левый</wheel><run>0</run><mileageUnit>km</mileageUnit>
-  <price>2244000</price>
-  <previousPrice />
+  <price>2749900</price>
+  <previousPrice>2244000</previousPrice>
   <specialOffer>0</specialOffer>
   <specialOfferPreviousPrice />
   <priceWithDiscount>2189000</priceWithDiscount>
@@ -1271,8 +1271,8 @@
   <gearboxType>Вариатор</gearboxType>
   <gearboxGearCount />
   <wheel>Левый</wheel><run>0</run><mileageUnit>km</mileageUnit>
-  <price>1672000</price>
-  <previousPrice />
+  <price>1889900</price>
+  <previousPrice>1672000</previousPrice>
   <specialOffer>0</specialOffer>
   <specialOfferPreviousPrice />
   <priceWithDiscount>1659900</priceWithDiscount>
@@ -1448,8 +1448,8 @@
   <gearboxType>Вариатор</gearboxType>
   <gearboxGearCount />
   <wheel>Левый</wheel><run>0</run><mileageUnit>km</mileageUnit>
-  <price>1682000</price>
-  <previousPrice />
+  <price>1889900</price>
+  <previousPrice>1682000</previousPrice>
   <specialOffer>0</specialOffer>
   <specialOfferPreviousPrice />
   <priceWithDiscount>1669900</priceWithDiscount>
@@ -1966,8 +1966,8 @@
   <gearboxType>Вариатор</gearboxType>
   <gearboxGearCount />
   <wheel>Левый</wheel><run>0</run><mileageUnit>km</mileageUnit>
-  <price>1682000</price>
-  <previousPrice />
+  <price>1889900</price>
+  <previousPrice>1682000</previousPrice>
   <specialOffer>0</specialOffer>
   <specialOfferPreviousPrice />
   <priceWithDiscount>1669900</priceWithDiscount>
