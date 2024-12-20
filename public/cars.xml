@@ -211,7 +211,7 @@
   <previousPrice />
   <specialOffer>0</specialOffer>
   <specialOfferPreviousPrice />
-  <priceWithDiscount>1669900</priceWithDiscount>
+  <priceWithDiscount>1519900</priceWithDiscount>
   <tradeinDiscount>100000</tradeinDiscount>
   <creditDiscount>120000</creditDiscount>
   <insuranceDiscount />
@@ -360,7 +360,7 @@
     <inContent />
     <reserved />
   </status>
-<max_discount>220000</max_discount><sale_price>1669900</sale_price><url>https://livan-samara.ru/cars/livan-x3-pro-15-cvt-103-лс-luxury-red-2023/</url></vehicle>
+<max_discount>370000</max_discount><sale_price>1519900</sale_price><url>https://livan-samara.ru/cars/livan-x3-pro-15-cvt-103-лс-luxury-red-2023/</url></vehicle>
 <vehicle>
   <id>6422110</id>
   <vin>LLV5C3B24P0500766</vin>
