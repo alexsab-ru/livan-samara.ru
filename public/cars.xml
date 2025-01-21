@@ -182,7 +182,7 @@
     <inContent />
     <reserved />
   </status>
-<max_discount>769900</max_discount><priceWithDiscount>1970000</priceWithDiscount><sale_price>1970000</sale_price><url>https://livan-samara.ru/cars/livan-x6-pro-15-amt-147-лс-premium-white-2023/</url></vehicle>
+<max_discount>769900</max_discount><priceWithDiscount>1970000</priceWithDiscount><sale_price>1970000</sale_price><url>https://livan-samara.ru/cars/livan-x6-pro-15-amt-147-лс-premium-белый-2023/</url></vehicle>
 <vehicle>
   <id>6280930</id>
   <vin>LLV2C3B2XP0204461</vin>
@@ -358,7 +358,7 @@
     <inContent />
     <reserved />
   </status>
-<max_discount>370000</max_discount><priceWithDiscount>1519900</priceWithDiscount><sale_price>1519900</sale_price><url>https://livan-samara.ru/cars/livan-x3-pro-15-cvt-103-лс-luxury-red-2023/</url></vehicle>
+<max_discount>370000</max_discount><priceWithDiscount>1519900</priceWithDiscount><sale_price>1519900</sale_price><url>https://livan-samara.ru/cars/livan-x3-pro-15-cvt-103-лс-luxury-красный-2023/</url></vehicle>
 <vehicle>
   <id>6422110</id>
   <vin>LLV5C3B24P0500766</vin>
@@ -371,17 +371,17 @@
   <mark_id>Livan</mark_id><folder_id>X6 Pro</folder_id><generation />
   <bodyConfiguration id="13330">Внедорожник 5 дв.</bodyConfiguration>
   <modification_id>1.5 AMT (147 л.с.)</modification_id><complectation_name>Premium</complectation_name><brandComplectationCode />
-  <engineType>petrol</engineType>
+  <engineType>Бензин</engineType>
   <engineVolume>1499</engineVolume>
   <enginePower>147</enginePower>
   <bodyNumber />
-  <body_type>suv</body_type><bodyDoorCount>5</bodyDoorCount>
+  <body_type>SUV</body_type><bodyDoorCount>5</bodyDoorCount>
   <seatCount />
-  <color>white</color><bodyColorMetallic>0</bodyColorMetallic>
-  <driveType>front</driveType>
-  <gearboxType>robotized</gearboxType>
+  <color>Белый</color><bodyColorMetallic>0</bodyColorMetallic>
+  <driveType>Передний</driveType>
+  <gearboxType>Робот</gearboxType>
   <gearboxGearCount />
-  <wheel>left</wheel><run>0</run><mileageUnit>km</mileageUnit>
+  <wheel>Левый</wheel><run>0</run><mileageUnit>km</mileageUnit>
   <price>2739900</price>
   <previousPrice>2234000</previousPrice>
   <specialOffer>0</specialOffer>
@@ -542,7 +542,7 @@
     <inContent />
     <reserved />
   </status>
-<max_discount>769900</max_discount><priceWithDiscount>1970000</priceWithDiscount><sale_price>1970000</sale_price><url>https://livan-samara.ru/cars/livan-x6-pro-15-amt-147-лс-premium-white-2023/</url></vehicle>
+<max_discount>769900</max_discount><priceWithDiscount>1970000</priceWithDiscount><sale_price>1970000</sale_price><url>https://livan-samara.ru/cars/livan-x6-pro-15-amt-147-лс-premium-белый-2023/</url></vehicle>
 <vehicle>
   <id>6422125</id>
   <vin>LLV5C3B29P0500780</vin>
@@ -555,17 +555,17 @@
   <mark_id>Livan</mark_id><folder_id>X6 Pro</folder_id><generation />
   <bodyConfiguration id="13330">Внедорожник 5 дв.</bodyConfiguration>
   <modification_id>1.5 AMT (147 л.с.)</modification_id><complectation_name>Premium</complectation_name><brandComplectationCode />
-  <engineType>petrol</engineType>
+  <engineType>Бензин</engineType>
   <engineVolume>1499</engineVolume>
   <enginePower>147</enginePower>
   <bodyNumber />
-  <body_type>suv</body_type><bodyDoorCount>5</bodyDoorCount>
+  <body_type>SUV</body_type><bodyDoorCount>5</bodyDoorCount>
   <seatCount />
-  <color>white</color><bodyColorMetallic>0</bodyColorMetallic>
-  <driveType>front</driveType>
-  <gearboxType>robotized</gearboxType>
+  <color>Белый</color><bodyColorMetallic>0</bodyColorMetallic>
+  <driveType>Передний</driveType>
+  <gearboxType>Робот</gearboxType>
   <gearboxGearCount />
-  <wheel>left</wheel><run>0</run><mileageUnit>km</mileageUnit>
+  <wheel>Левый</wheel><run>0</run><mileageUnit>km</mileageUnit>
   <price>2739900</price>
   <previousPrice>2234000</previousPrice>
   <specialOffer>0</specialOffer>
@@ -726,7 +726,7 @@
     <inContent />
     <reserved />
   </status>
-<max_discount>769900</max_discount><priceWithDiscount>1970000</priceWithDiscount><sale_price>1970000</sale_price><url>https://livan-samara.ru/cars/livan-x6-pro-15-amt-147-лс-premium-white-2023/</url></vehicle>
+<max_discount>769900</max_discount><priceWithDiscount>1970000</priceWithDiscount><sale_price>1970000</sale_price><url>https://livan-samara.ru/cars/livan-x6-pro-15-amt-147-лс-premium-белый-2023/</url></vehicle>
 <vehicle>
   <id>6422253</id>
   <vin>LLV5C3B20P0501218</vin>
@@ -898,7 +898,7 @@
     <inContent />
     <reserved />
   </status>
-<max_discount>165000</max_discount><priceWithDiscount>1980000</priceWithDiscount><sale_price>1980000</sale_price><url>https://livan-samara.ru/cars/livan-x6-pro-15-amt-147-лс-premium-grey-2023/</url></vehicle>
+<max_discount>769900</max_discount><priceWithDiscount>1980000</priceWithDiscount><sale_price>1980000</sale_price><url>https://livan-samara.ru/cars/livan-x6-pro-15-amt-147-лс-premium-серый-2023/</url></vehicle>
 <vehicle>
   <id>6422257</id>
   <vin>LLV5C3B28P0501242</vin>
@@ -911,17 +911,17 @@
   <mark_id>Livan</mark_id><folder_id>X6 Pro</folder_id><generation />
   <bodyConfiguration id="13330">Внедорожник 5 дв.</bodyConfiguration>
   <modification_id>1.5 AMT (147 л.с.)</modification_id><complectation_name>Premium</complectation_name><brandComplectationCode />
-  <engineType>petrol</engineType>
+  <engineType>Бензин</engineType>
   <engineVolume>1499</engineVolume>
   <enginePower>147</enginePower>
   <bodyNumber />
-  <body_type>suv</body_type><bodyDoorCount>5</bodyDoorCount>
+  <body_type>SUV</body_type><bodyDoorCount>5</bodyDoorCount>
   <seatCount />
-  <color>grey</color><bodyColorMetallic>0</bodyColorMetallic>
-  <driveType>front</driveType>
-  <gearboxType>robotized</gearboxType>
+  <color>Серый</color><bodyColorMetallic>0</bodyColorMetallic>
+  <driveType>Передний</driveType>
+  <gearboxType>Робот</gearboxType>
   <gearboxGearCount />
-  <wheel>left</wheel><run>0</run><mileageUnit>km</mileageUnit>
+  <wheel>Левый</wheel><run>0</run><mileageUnit>km</mileageUnit>
   <price>2749900</price>
   <previousPrice />
   <specialOffer>0</specialOffer>
@@ -1068,7 +1068,7 @@
     <inContent />
     <reserved />
   </status>
-<max_discount>769900</max_discount><priceWithDiscount>1980000</priceWithDiscount><sale_price>1980000</sale_price><url>https://livan-samara.ru/cars/livan-x6-pro-15-amt-147-лс-premium-grey-2023/</url></vehicle>
+<max_discount>769900</max_discount><priceWithDiscount>1980000</priceWithDiscount><sale_price>1980000</sale_price><url>https://livan-samara.ru/cars/livan-x6-pro-15-amt-147-лс-premium-серый-2023/</url></vehicle>
 <vehicle>
   <id>6422276</id>
   <vin>LLV5C3B25P0501246</vin>
@@ -1081,17 +1081,17 @@
   <mark_id>Livan</mark_id><folder_id>X6 Pro</folder_id><generation />
   <bodyConfiguration id="13330">Внедорожник 5 дв.</bodyConfiguration>
   <modification_id>1.5 AMT (147 л.с.)</modification_id><complectation_name>Premium</complectation_name><brandComplectationCode />
-  <engineType>petrol</engineType>
+  <engineType>Бензин</engineType>
   <engineVolume>1499</engineVolume>
   <enginePower>147</enginePower>
   <bodyNumber />
-  <body_type>suv</body_type><bodyDoorCount>5</bodyDoorCount>
+  <body_type>SUV</body_type><bodyDoorCount>5</bodyDoorCount>
   <seatCount />
-  <color>grey</color><bodyColorMetallic>0</bodyColorMetallic>
-  <driveType>front</driveType>
-  <gearboxType>robotized</gearboxType>
+  <color>Серый</color><bodyColorMetallic>0</bodyColorMetallic>
+  <driveType>Передний</driveType>
+  <gearboxType>Робот</gearboxType>
   <gearboxGearCount />
-  <wheel>left</wheel><run>0</run><mileageUnit>km</mileageUnit>
+  <wheel>Левый</wheel><run>0</run><mileageUnit>km</mileageUnit>
   <price>2749900</price>
   <previousPrice>2244000</previousPrice>
   <specialOffer>0</specialOffer>
@@ -1240,7 +1240,7 @@
     <inContent />
     <reserved />
   </status>
-<max_discount>769900</max_discount><priceWithDiscount>1980000</priceWithDiscount><sale_price>1980000</sale_price><url>https://livan-samara.ru/cars/livan-x6-pro-15-amt-147-лс-premium-grey-2023/</url></vehicle>
+<max_discount>769900</max_discount><priceWithDiscount>1980000</priceWithDiscount><sale_price>1980000</sale_price><url>https://livan-samara.ru/cars/livan-x6-pro-15-amt-147-лс-premium-серый-2023/</url></vehicle>
 <vehicle>
   <id>6422707</id>
   <vin>LLV2C3B22P0203420</vin>
@@ -1416,7 +1416,7 @@
     <inContent />
     <reserved />
   </status>
-<max_discount>220000</max_discount><priceWithDiscount>1659900</priceWithDiscount><sale_price>1659900</sale_price><url>https://livan-samara.ru/cars/livan-x3-pro-15-cvt-103-лс-luxury-white-2023/</url></vehicle>
+<max_discount>220000</max_discount><priceWithDiscount>1659900</priceWithDiscount><sale_price>1659900</sale_price><url>https://livan-samara.ru/cars/livan-x3-pro-15-cvt-103-лс-luxury-белый-2023/</url></vehicle>
 <vehicle>
   <id>6422726</id>
   <vin>LLV2C3B22P0205555</vin>
@@ -1585,7 +1585,7 @@
     <inContent />
     <reserved />
   </status>
-<max_discount>370000</max_discount><priceWithDiscount>1529900</priceWithDiscount><sale_price>1529900</sale_price><url>https://livan-samara.ru/cars/livan-x3-pro-15-cvt-103-лс-luxury-azure-2023/</url></vehicle>
+<max_discount>370000</max_discount><priceWithDiscount>1529900</priceWithDiscount><sale_price>1529900</sale_price><url>https://livan-samara.ru/cars/livan-x3-pro-15-cvt-103-лс-luxury-лазурный-2023/</url></vehicle>
 <vehicle>
   <id>6422751</id>
   <vin>LLV2C3B23P0203443</vin>
@@ -1598,17 +1598,17 @@
   <mark_id>Livan</mark_id><folder_id>X3 Pro</folder_id><generation />
   <bodyConfiguration id="12759">Внедорожник 5 дв.</bodyConfiguration>
   <modification_id>1.5 CVT (103 л.с.)</modification_id><complectation_name>Luxury</complectation_name><brandComplectationCode />
-  <engineType>petrol</engineType>
+  <engineType>Бензин</engineType>
   <engineVolume>1498</engineVolume>
   <enginePower>103</enginePower>
   <bodyNumber />
-  <body_type>suv</body_type><bodyDoorCount>5</bodyDoorCount>
+  <body_type>SUV</body_type><bodyDoorCount>5</bodyDoorCount>
   <seatCount />
-  <color>white</color><bodyColorMetallic>0</bodyColorMetallic>
-  <driveType>front</driveType>
-  <gearboxType>variator</gearboxType>
+  <color>Белый</color><bodyColorMetallic>0</bodyColorMetallic>
+  <driveType>Передний</driveType>
+  <gearboxType>Вариатор</gearboxType>
   <gearboxGearCount />
-  <wheel>left</wheel><run>0</run><mileageUnit>km</mileageUnit>
+  <wheel>Левый</wheel><run>0</run><mileageUnit>km</mileageUnit>
   <price>1889900</price>
   <previousPrice>1672000</previousPrice>
   <specialOffer>0</specialOffer>
@@ -1761,7 +1761,7 @@
     <inContent />
     <reserved />
   </status>
-<max_discount>370000</max_discount><priceWithDiscount>1519900</priceWithDiscount><sale_price>1519900</sale_price><url>https://livan-samara.ru/cars/livan-x3-pro-15-cvt-103-лс-luxury-white-2023/</url></vehicle>
+<max_discount>370000</max_discount><priceWithDiscount>1519900</priceWithDiscount><sale_price>1519900</sale_price><url>https://livan-samara.ru/cars/livan-x3-pro-15-cvt-103-лс-luxury-белый-2023/</url></vehicle>
 <vehicle>
   <id>6422760</id>
   <vin>LLV2C3B26P0205591</vin>
@@ -1774,17 +1774,17 @@
   <mark_id>Livan</mark_id><folder_id>X3 Pro</folder_id><generation />
   <bodyConfiguration id="12759">Внедорожник 5 дв.</bodyConfiguration>
   <modification_id>1.5 CVT (103 л.с.)</modification_id><complectation_name>Luxury</complectation_name><brandComplectationCode />
-  <engineType>petrol</engineType>
+  <engineType>Бензин</engineType>
   <engineVolume>1498</engineVolume>
   <enginePower>103</enginePower>
   <bodyNumber />
-  <body_type>suv</body_type><bodyDoorCount>5</bodyDoorCount>
+  <body_type>SUV</body_type><bodyDoorCount>5</bodyDoorCount>
   <seatCount />
-  <color>azure</color><bodyColorMetallic>0</bodyColorMetallic>
-  <driveType>front</driveType>
-  <gearboxType>variator</gearboxType>
+  <color>Лазурный</color><bodyColorMetallic>0</bodyColorMetallic>
+  <driveType>Передний</driveType>
+  <gearboxType>Вариатор</gearboxType>
   <gearboxGearCount />
-  <wheel>left</wheel><run>0</run><mileageUnit>km</mileageUnit>
+  <wheel>Левый</wheel><run>0</run><mileageUnit>km</mileageUnit>
   <price>1899900</price>
   <previousPrice>1682000</previousPrice>
   <specialOffer>0</specialOffer>
@@ -1931,7 +1931,7 @@
     <inContent />
     <reserved />
   </status>
-<max_discount>370000</max_discount><priceWithDiscount>1529900</priceWithDiscount><sale_price>1529900</sale_price><url>https://livan-samara.ru/cars/livan-x3-pro-15-cvt-103-лс-luxury-azure-2023/</url></vehicle>
+<max_discount>370000</max_discount><priceWithDiscount>1529900</priceWithDiscount><sale_price>1529900</sale_price><url>https://livan-samara.ru/cars/livan-x3-pro-15-cvt-103-лс-luxury-лазурный-2023/</url></vehicle>
 <vehicle>
   <id>6423015</id>
   <vin>LLV2C3B26P0206319</vin>
@@ -2112,7 +2112,7 @@
     <inContent />
     <reserved />
   </status>
-<max_discount>370000</max_discount><priceWithDiscount>1529900</priceWithDiscount><sale_price>1529900</sale_price><url>https://livan-samara.ru/cars/livan-x3-pro-15-cvt-103-лс-luxury-beige-2023/</url></vehicle>
+<max_discount>370000</max_discount><priceWithDiscount>1529900</priceWithDiscount><sale_price>1529900</sale_price><url>https://livan-samara.ru/cars/livan-x3-pro-15-cvt-103-лс-luxury-бежевый-2023/</url></vehicle>
 <vehicle>
   <id>6423099</id>
   <vin>LLV2C3B28P0206337</vin>
@@ -2125,17 +2125,17 @@
   <mark_id>Livan</mark_id><folder_id>X3 Pro</folder_id><generation />
   <bodyConfiguration id="12759">Внедорожник 5 дв.</bodyConfiguration>
   <modification_id>1.5 CVT (103 л.с.)</modification_id><complectation_name>Luxury</complectation_name><brandComplectationCode />
-  <engineType>petrol</engineType>
+  <engineType>Бензин</engineType>
   <engineVolume>1498</engineVolume>
   <enginePower>103</enginePower>
   <bodyNumber />
-  <body_type>suv</body_type><bodyDoorCount>5</bodyDoorCount>
+  <body_type>SUV</body_type><bodyDoorCount>5</bodyDoorCount>
   <seatCount />
-  <color>beige</color><bodyColorMetallic>0</bodyColorMetallic>
-  <driveType>front</driveType>
-  <gearboxType>variator</gearboxType>
+  <color>Бежевый</color><bodyColorMetallic>0</bodyColorMetallic>
+  <driveType>Передний</driveType>
+  <gearboxType>Вариатор</gearboxType>
   <gearboxGearCount />
-  <wheel>left</wheel><run>0</run><mileageUnit>km</mileageUnit>
+  <wheel>Левый</wheel><run>0</run><mileageUnit>km</mileageUnit>
   <price>1899900</price>
   <previousPrice>1682000</previousPrice>
   <specialOffer>0</specialOffer>
@@ -2293,7 +2293,7 @@
     <inContent />
     <reserved />
   </status>
-<max_discount>370000</max_discount><priceWithDiscount>1529900</priceWithDiscount><sale_price>1529900</sale_price><url>https://livan-samara.ru/cars/livan-x3-pro-15-cvt-103-лс-luxury-beige-2023/</url></vehicle>
+<max_discount>370000</max_discount><priceWithDiscount>1529900</priceWithDiscount><sale_price>1529900</sale_price><url>https://livan-samara.ru/cars/livan-x3-pro-15-cvt-103-лс-luxury-бежевый-2023/</url></vehicle>
 <vehicle>
   <id>6543660</id>
   <vin>LLV5C3B22R0501756</vin>
@@ -2664,5 +2664,5 @@
     <inContent />
     <reserved />
   </status>
-<max_discount>955900</max_discount><priceWithDiscount>1694000</priceWithDiscount><sale_price>1694000</sale_price><url>https://livan-samara.ru/cars/livan-s6-pro-15-amt-147-лс-premium-grey-2023/</url></vehicle>
+<max_discount>955900</max_discount><priceWithDiscount>1694000</priceWithDiscount><sale_price>1694000</sale_price><url>https://livan-samara.ru/cars/livan-s6-pro-15-amt-147-лс-premium-серый-2023/</url></vehicle>
 </vehicles>
