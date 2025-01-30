@@ -1956,10 +1956,10 @@
   <gearboxGearCount />
   <wheel>Левый</wheel><run>0</run><mileageUnit>km</mileageUnit>
   <price>1899900</price>
-  <previousPrice>1682000</previousPrice>
+  <previousPrice>1889900</previousPrice>
   <specialOffer>0</specialOffer>
   <specialOfferPreviousPrice />
-  <tradeinDiscount>100000</tradeinDiscount>
+  <tradeinDiscount>250000</tradeinDiscount>
   <creditDiscount>120000</creditDiscount>
   <insuranceDiscount />
   <availability>available</availability>
@@ -2664,5 +2664,5 @@
     <inContent />
     <reserved />
   </status>
-<max_discount>955900</max_discount><priceWithDiscount>1694000</priceWithDiscount><sale_price>1694000</sale_price><url>https://livan-samara.ru/cars/livan-s6-pro-15-amt-147-лс-premium-серый-2023/</url></vehicle>
+<max_discount>993900</max_discount><priceWithDiscount>1656000</priceWithDiscount><sale_price>1656000</sale_price><url>https://livan-samara.ru/cars/livan-s6-pro-15-amt-147-лс-premium-серый-2023/</url></vehicle>
 </vehicles>
