@@ -2137,11 +2137,11 @@
   <gearboxGearCount />
   <wheel>Левый</wheel><run>0</run><mileageUnit>km</mileageUnit>
   <price>1899900</price>
-  <previousPrice>1682000</previousPrice>
+  <previousPrice>1889900</previousPrice>
   <specialOffer>0</specialOffer>
   <specialOfferPreviousPrice />
-  <tradeinDiscount>100000</tradeinDiscount>
-  <creditDiscount>120000</creditDiscount>
+  <tradeinDiscount>270000</tradeinDiscount>
+  <creditDiscount>100000</creditDiscount>
   <insuranceDiscount />
   <availability>available</availability>
   <ptsType />
@@ -2321,8 +2321,8 @@
   <previousPrice />
   <specialOffer>0</specialOffer>
   <specialOfferPreviousPrice />
-  <tradeinDiscount>165000</tradeinDiscount>
-  <creditDiscount />
+  <tradeinDiscount>400000</tradeinDiscount>
+  <creditDiscount>219900</creditDiscount>
   <insuranceDiscount />
   <availability>available</availability>
   <ptsType />
@@ -2350,7 +2350,7 @@
   <photoCount>1</photoCount>
   <description>Livan-суббренд GEELY, это значит, что схема производства, цепочка поставки компонентов, стандарты и уровень качества продукции высшего уровня.
 Автомобиль пpедставлeн официaльным дилером Livan в г. Самара В нашем автосалоне для вас: Большой выбор автомобилей Livan в наличии Выгодный обмен по программе Тrаdе-in Большой выбор автомобилей с пробегом Выкуп автомобилей Официальный сервисный центр Кузовной сервис Кредит на выгодных условиях Страхование КАСКО, ОСАГО
-Авторассрочка:12,24,36 мес. Лизинг (для юридических лиц) Дополнительное оборудование Стоимость указана с учетом скидок и предложений Мы рады видеть Вас ежедневно с 08:00 до 20:00 по адресу: Самара, Новоурицкая 22А.</description>
+Авторассрочка:12,24,36 мес. Лизинг (для юридических лиц) Дополнительное оборудование Стоимость указана с учетом скидок и предложений Мы рады видеть Вас ежедневно с 08:00 до 20:00 по адресу: Самара, Ново-Урицкая 22А.</description>
   <address>Самара, Новоурицкая 22</address>
   <ownersCount>0</ownersCount>
   <vehicleCondition>excellent</vehicleCondition>
@@ -2493,7 +2493,7 @@
     <inContent />
     <reserved />
   </status>
-<max_discount>569900</max_discount><priceWithDiscount>2180000</priceWithDiscount><sale_price>2180000</sale_price><url>https://livan-samara.ru/cars/livan-x6-pro-15-amt-147-лс-premium-green-2024/</url></vehicle>
+<max_discount>619900</max_discount><priceWithDiscount>2130000</priceWithDiscount><sale_price>2130000</sale_price><url>https://livan-samara.ru/cars/livan-x6-pro-15-amt-147-лс-premium-green-2024/</url></vehicle>
 <vehicle>
   <id>6546591</id>
   <vin>LLV2A3B20P0300587</vin>
@@ -2521,8 +2521,8 @@
   <previousPrice />
   <specialOffer>0</specialOffer>
   <specialOfferPreviousPrice />
-  <tradeinDiscount>220000</tradeinDiscount>
-  <creditDiscount />
+  <tradeinDiscount>544900</tradeinDiscount>
+  <creditDiscount>250000</creditDiscount>
   <insuranceDiscount />
   <availability>available</availability>
   <ptsType />
@@ -2550,7 +2550,7 @@
   <photoCount>1</photoCount>
   <description>Livan-суббренд GEELY, это значит, что схема производства, цепочка поставки компонентов, стандарты и уровень качества продукции высшего уровня.
 Автомобиль пpедставлeн официaльным дилером Livan в г. Самара В нашем автосалоне для вас: Большой выбор автомобилей Livan в наличии Выгодный обмен по программе Тrаdе-in Большой выбор автомобилей с пробегом Выкуп автомобилей Официальный сервисный центр Кузовной сервис Кредит на выгодных условиях Страхование КАСКО, ОСАГО
-Авторассрочка:12,24,36 мес. Лизинг (для юридических лиц) Дополнительное оборудование Стоимость указана с учетом скидок и предложений Мы рады видеть Вас ежедневно с 08:00 до 20:00 по адресу: Самара, Новоурицкая 22А.</description>
+Авторассрочка:12,24,36 мес. Лизинг (для юридических лиц) Дополнительное оборудование Стоимость указана с учетом скидок и предложений Мы рады видеть Вас ежедневно с 08:00 до 20:00 по адресу: Самара, Ново-Урицкая 22А.</description>
   <address>Самара, Новоурицкая 22</address>
   <ownersCount>0</ownersCount>
   <vehicleCondition>excellent</vehicleCondition>
@@ -2642,11 +2642,11 @@
   <brandColorCode />
   <brandInteriorCode />
   <certificationProgram />
-  <avitoId>4643637479</avitoId>
+  <avitoId />
   <autoruId />
   <dromId />
   <siteUrl>https://livan-alpha.ru/</siteUrl>
-  <avitoUrl>https://www.avito.ru/items/4643637479</avitoUrl>
+  <avitoUrl />
   <autoruUrl />
   <dromUrl />
   <siteUrls>
