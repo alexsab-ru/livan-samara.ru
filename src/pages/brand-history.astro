@@ -1,9 +1,22 @@
 ---
 import PageLayout from '@/layouts/PageLayout.astro';
+import BrandHistory from '@/components/BrandHistory/BrandHistory.astro';
 import {BASE_URL, SITE_URL, SITE_NAME, LEGAL_ENTITY, LEGAL_INN} from '@/const';
 import salons from '@/data/salons.json';
 const salon = salons[0]; //временно, наверное
-
+const history = [
+	{year: 2000, html: 'Основание бренда Shanghai Maple Automobiles.'},
+	{year: 2002, html: 'Компания <b>Geely</b> приобрела стратегический холдинг Shanghai Maple.'},
+	{year: 2003, html: 'Выпущен первый авто на базе Citroën ZX.'},
+	{year: 2008, html: 'Shanghai Maple была <b>полностью объединена с Geely</b> в качестве народного бренда.'},
+	{year: 2010, html: 'Shanghai Maple Сокращен в пользу более доступного бренда Englon.'},
+	{year: 2013, html: 'Geely и Kandi Technologies создали совместное предприятие Zhejiang Kandi Electric Vehicles Investment, занимающиеся производством, маркетингом и продажей электромобилей на материковой части Китая.'},
+	{year: 2020, html: 'В результате партнерства бренд Maple был возрожден. Возрожденный бренд <b>Maple</b> начал производить серию доступных электромобилей на базе существующих бензиновых автомобилей Geely, начиная с Maple 30X, созданного на базе Geely Vision X3.'},
+	{year: 2021, html: 'Kandi Technologies вышла из своей доли, передав 22% акций компании Geely.'},
+	{year: 2022, html: 'Основание бреда <b>LIVAN</b> в результате слияния с <b>Geely</b> компаний <b>Maple</b> и <b>Lifan Technology</b>.<br />Представлена ​​совершенно новая модель, электрический кроссовер-фастбэк LIVAN RL7 <iframe width="" height="" class="w-full aspect-video my-6" src="https://www.youtube.com/embed/abBxgTpm0k8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>	и электрический среднеразмерный кроссовер RL9 <iframe width="" height="" class="w-full aspect-video my-6" src="https://www.youtube.com/embed/mxEzCJ71Bf8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> <b>Так же разработана уникальная технология быстрой смены аккумуляторной батареи за 10 минут.</b>'},
+	{year: 2023, html: 'Выход моделей LIVAN X3PRO, X6PRO, S6PRO на рынок РФ.'},
+	{year: 2024, html: 'Запланирован выход 2х новых моделей на рынок РФ в том числе и электрокар.'},
+];
 ---
 
 <PageLayout
@@ -27,71 +40,7 @@ const salon = salons[0]; //временно, наверное
 		<li><span class="text-accent-500 font-medium text-xl">N</span> — Nonstop (не останавливаясь).</li>
 	</ul>
 
-	<div class="relative sm:space-y-10 mb-20 *:text-center sm:*:text-left">
-		<div class="absolute h-full w-0.5 bg-gray-300 top-0 left-1/2 hidden sm:block"></div>
-		<div class="flex flex-col items-center sm:items-start sm:grid grid-cols-9 relative z-10 sm:text-lg">
-			<div class="py-2 px-4 col-span-4"></div>
-			<div class="py-2 bg-white text-gray-600 text-3xl text-center col-span-1 h-fit">2000</div>
-			<div class="py-2 px-4 col-span-4">Основание бренда Shanghai Maple Automobiles.</div>
-		</div>
-		<div class="flex flex-col-reverse items-center sm:items-start sm:grid grid-cols-9 relative z-10 sm:text-lg">
-			<div class="py-2 px-4 col-span-4 sm:text-right">Компания <b>Geely</b> приобрела стратегический холдинг Shanghai Maple.</div>
-			<div class="py-2 bg-white text-gray-600 text-3xl text-center col-span-1">2002</div>
-			<div class="py-2 px-4 col-span-4"></div>
-		</div>
-		<div class="flex flex-col items-center sm:items-start sm:grid grid-cols-9 relative z-10 sm:text-lg">
-			<div class="py-2 px-4 col-span-4"></div>
-			<div class="py-2 bg-white text-gray-600 text-3xl text-center col-span-1 h-fit">2003</div>
-			<div class="py-2 px-4 col-span-4">Выпущен первый авто на базе Citroën ZX.</div>
-		</div>
-		<div class="flex flex-col-reverse items-center sm:items-start sm:grid grid-cols-9 relative z-10 sm:text-lg">
-			<div class="py-2 px-4 col-span-4 sm:text-right">Shanghai Maple была <b>полностью объединена с Geely</b> в качестве народного бренда.</div>
-			<div class="py-2 bg-white text-gray-600 text-3xl text-center col-span-1">2008</div>
-			<div class="py-2 px-4 col-span-4"></div>
-		</div>
-		<div class="flex flex-col items-center sm:items-start sm:grid grid-cols-9 relative z-10 sm:text-lg">
-			<div class="py-2 px-4 col-span-4"></div>
-			<div class="py-2 bg-white text-gray-600 text-3xl text-center col-span-1 h-fit">2010</div>
-			<div class="py-2 px-4 col-span-4">Shanghai Maple Сокращен в пользу более доступного бренда Englon.</div>
-		</div>
-		<div class="flex flex-col-reverse items-center sm:items-start sm:grid grid-cols-9 relative z-10 sm:text-lg">
-			<div class="py-2 px-4 col-span-4 sm:text-right">Geely и Kandi Technologies создали совместное предприятие Zhejiang Kandi Electric Vehicles Investment, занимающиеся производством, маркетингом и продажей электромобилей на материковой части Китая.</div>
-			<div class="py-2 bg-white text-gray-600 text-3xl text-center col-span-1 h-fit">2013</div>
-			<div class="py-2 px-4 col-span-4"></div>
-		</div>
-		<div class="flex flex-col items-center sm:items-start sm:grid grid-cols-9 relative z-10 sm:text-lg">
-			<div class="py-2 px-4 col-span-4"></div>
-			<div class="py-2 bg-white text-gray-600 text-3xl text-center col-span-1 h-fit">2020</div>
-			<div class="py-2 px-4 col-span-4">В результате партнерства бренд Maple был возрожден. Возрожденный бренд <b>Maple</b> начал производить серию доступных электромобилей на базе существующих бензиновых автомобилей Geely, начиная с Maple 30X , созданного на базе Geely Vision X3.</div>
-		</div>
-		<div class="flex flex-col-reverse items-center sm:items-start sm:grid grid-cols-9 relative z-10 sm:text-lg">
-			<div class="py-2 px-4 col-span-4 sm:text-right">Kandi Technologies вышла из своей доли, передав 22 % акций компании Geely.</div>
-			<div class="py-2 bg-white text-gray-600 text-3xl text-center col-span-1">2021</div>
-			<div class="py-2 px-4 col-span-4"></div>
-		</div>
-		<div class="flex flex-col items-center sm:items-start sm:grid grid-cols-9 relative z-10 sm:text-lg">
-			<div class="py-2 px-4 col-span-4"></div>
-			<div class="py-2 bg-white text-gray-600 text-3xl text-center col-span-1 h-fit">2022</div>
-			<div class="py-2 px-4 col-span-4">
-				Основание бреда <b>LIVAN</b> в результате слияния с <b>Geely</b> компаний <b>Maple</b> и <b>Lifan Technology</b>.
-				<br />Представлена ​​совершенно новая модель, электрический кроссовер-фастбэк LIVAN RL7
-				<iframe width="" height="" class="w-full aspect-video my-6" src="https://www.youtube.com/embed/abBxgTpm0k8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-				и электрический среднеразмерный кроссовер RL9
-				<iframe width="" height="" class="w-full aspect-video my-6" src="https://www.youtube.com/embed/mxEzCJ71Bf8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-				<b>Так же разработана уникальная технология быстрой смены аккумуляторной батареи за 10 минут.</b>
-			</div>
-		</div>
-		<div class="flex flex-col-reverse items-center sm:items-start sm:grid grid-cols-9 relative z-10 sm:text-lg">
-			<div class="py-2 px-4 col-span-4 sm:text-right">Выход моделей LIVAN X3PRO, X6PRO, S6PRO на рынок РФ.</div>
-			<div class="py-2 bg-white text-gray-600 text-3xl text-center col-span-1 h-fit">2023</div>
-			<div class="py-2 px-4 col-span-4"></div>
-		</div>
-		<div class="flex flex-col items-center sm:items-start sm:grid grid-cols-9 relative z-10 sm:text-lg">
-			<div class="py-2 px-4 col-span-4"></div>
-			<div class="py-2 bg-white text-gray-600 text-3xl text-center col-span-1 h-full">2024</div>
-			<div class="py-2 px-4 col-span-4">Запланирован выход 2х новых моделей на рынок РФ в том числе и электрокар.</div>
-		</div>
-	</div>
+	<BrandHistory items={history} />
 
 	<p><b>Российский рынок — не первый</b> иностранный для LIVAN. Автомобили бренда уже продаются в Латинской Америке (Чили, Перу, Бразилия, Боливия) и на Филиппинах. Есть дистрибьюторы в Азербайджане, Казахстане и Белоруссии.</p>
 
