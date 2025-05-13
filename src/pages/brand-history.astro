@@ -1,7 +1,7 @@
 ---
 import PageLayout from '@/layouts/PageLayout.astro';
-import BrandHistory from '@/components/BrandHistory/BrandHistory.astro';
-import {BASE_URL, SITE_URL, SITE_NAME, LEGAL_ENTITY, LEGAL_INN} from '@/const';
+import BrandHistoryElements from '@/components/BrandHistory/BrandHistoryElements.astro';
+import {SITE_NAME, LEGAL_ENTITY, LEGAL_INN} from '@/const';
 import salons from '@/data/salons.json';
 const salon = salons[0]; //временно, наверное
 const history = [
@@ -40,7 +40,7 @@ const history = [
 		<li><span class="text-accent-500 font-medium text-xl">N</span> — Nonstop (не останавливаясь).</li>
 	</ul>
 
-	<BrandHistory items={history} />
+	<BrandHistoryElements items={history} />
 
 	<p><b>Российский рынок — не первый</b> иностранный для LIVAN. Автомобили бренда уже продаются в Латинской Америке (Чили, Перу, Бразилия, Боливия) и на Филиппинах. Есть дистрибьюторы в Азербайджане, Казахстане и Белоруссии.</p>
 
