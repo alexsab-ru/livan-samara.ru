@@ -2,99 +2,21 @@
 <data>
   <cars><car>
 			<mark_id>Livan</mark_id>
-			<folder_id>S6 Pro</folder_id>
-			<modification_id>1.5 AMT (147 л.с.)</modification_id>
-			<body_type>Седан</body_type>
-			<complectation_name>Premium</complectation_name>
+			<folder_id>X3 Pro</folder_id>
+			<modification_id>1.5 CVT (103 л.с.)</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Luxury</complectation_name>
 			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>нет</metallic>
+			<color>БЕЖЕВЫЙ</color>
+			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2023</year>
-			<price>2649900</price>
+			<price>1899900</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<currency>RUR</currency>
-			<registry_year>2023</registry_year>
-			<vin>LLV2A3B20P0300587</vin>
-			<description>Livan-суббренд GEELY, это значит, что схема производства, цепочка поставки компонентов, стандарты и уровень качества продукции высшего уровня.
-Автомобиль пpедставлeн официaльным дилером Livan в г. Самара В нашем автосалоне для вас: Большой выбор автомобилей Livan в наличии Выгодный обмен по программе Тrаdе-in Большой выбор автомобилей с пробегом Выкуп автомобилей Официальный сервисный центр Кузовной сервис Кредит на выгодных условиях Страхование КАСКО, ОСАГО
-Максимальная выгода указана с учетом всех предоставляемых скидок, при условии покупки автомобиля в кредит и  при участии  в программе Тrаdе-in
-Авторассрочка:12,24,36 мес. Лизинг (для юридических лиц) Дополнительное оборудование Стоимость указана с учетом скидок и предложений Мы рады видеть Вас ежедневно с 08:00 до 20:00 по адресу: Самара, Ново-Урицкая 22А.</description>
-			<images>
-				<image>https://cars.avto-provereno.ru/feeds//LLV2A3B20P0300587/5fe2a7d5ca58500cdced986997e336c8.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV2A3B20P0300587/dd42717ce61e0b2e4ea70031e4ca9c23.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV2A3B20P0300587/517bc11ce624b39f731e54fefbe503ab.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV2A3B20P0300587/e5262370ac5d1376a42f14bfd387c7c6.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV2A3B20P0300587/c58f888b5d8244181b01f21fe7ebf787.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV2A3B20P0300587/9a75d14d47f37a939425ebac0067c9bc.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV2A3B20P0300587/acfb5d2aa8221fc2ef940fd30285f735.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV2A3B20P0300587/f8c1b426454e6817195c9aee17f3b4fd.jpg</image>
-			</images>
-		<max_discount>1049900</max_discount><priceWithDiscount>1600000</priceWithDiscount><sale_price>1600000</sale_price><url>https://livan-samara.ru/cars/livan-s6-pro-15-amt-147-лс-premium-серый-2023/</url></car>
-		<car>
-			<mark_id>Livan</mark_id>
-			<folder_id>X3 Pro</folder_id>
-			<modification_id>1.5 CVT (103 л.с.)</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>Luxury</complectation_name>
-			<wheel>левый</wheel>
-			<color>БЕЖЕВЫЙ</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2023</year>
-			<price>1899900</price>
-			<credit_discount>120000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>100000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<currency>RUR</currency>
-			<registry_year>2023</registry_year>
-			<vin>LLV2C3B26P0206319</vin>
-			<description>Livan-суббренд GEELY, это значит, что схема производства, цепочка поставки компонентов, стандарты и уровень качества продукции высшего уровня.
-Автомобиль пpедставлeн официaльным дилером Livan в г. Самара В нашем автосалоне для вас: Большой выбор автомобилей Livan в наличии Выгодный обмен по программе Тrаdе-in Большой выбор автомобилей с пробегом Выкуп автомобилей Официальный сервисный центр Кузовной сервис Кредит на выгодных условиях Страхование КАСКО, ОСАГО
-Максимальная выгода указана с учетом всех предоставляемых скидок, при условии покупки автомобиля в кредит и  при участии  в программе Тrаdе-in
-Авторассрочка:12,24,36 мес. Лизинг (для юридических лиц) Дополнительное оборудование Стоимость указана с учетом скидок и предложений Мы рады видеть Вас ежедневно с 08:00 до 20:00 по адресу: Самара, Ново-Урицкая 22А.</description>
-			<images>
-				<image>https://cars.avto-provereno.ru/feeds//LLV2C3B26P0206319/6431f8aebc8547174443234c1a046eae.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV2C3B26P0206319/46d3ac5c2c857d4d24e539b2706462c7.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV2C3B26P0206319/dc3306b6c5c4a16d2ace0e0889dca72b.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV2C3B26P0206319/9120267523729b4ce9a4b120b18641fd.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV2C3B26P0206319/d7c7b610a1d91ab92411229567d9b98c.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV2C3B26P0206319/a3723ed09e2efa44f86a2dcd8ffd0271.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV2C3B26P0206319/c1c9b3547f50f6e69a0c4463093d5830.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV2C3B26P0206319/ce083dd09e37a3f2cea82944e6c931fb.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV2C3B26P0206319/82612824907eea41eb27d0d32007b3a9.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV2C3B26P0206319/efb0f421994a6ca990f2afd3934149e2.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV2C3B26P0206319/b90854187c9b422251989985e6410d46.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV2C3B26P0206319/77e53cfd5e8a2db5347db8d21e60931f.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV2C3B26P0206319/d167f404b045d907d4005854735ab18b.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV2C3B26P0206319/d53151b8be0bb7c74e9ea7d26432e039.jpg</image>
-			</images>
-		<max_discount>549900</max_discount><priceWithDiscount>1350000</priceWithDiscount><sale_price>1350000</sale_price><url>https://livan-samara.ru/cars/livan-x3-pro-15-cvt-103-лс-luxury-бежевый-2023/</url></car>
-		<car>
-			<mark_id>Livan</mark_id>
-			<folder_id>X3 Pro</folder_id>
-			<modification_id>1.5 CVT (103 л.с.)</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>Luxury</complectation_name>
-			<wheel>левый</wheel>
-			<color>БЕЖЕВЫЙ</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2023</year>
-			<price>1899900</price>
-			<credit_discount>120000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>100000</tradein_discount>
+			<tradein_discount>210000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
 			<registry_year>2023</registry_year>
@@ -133,150 +55,21 @@
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
-			<year>2023</year>
-			<price>1889900</price>
-			<credit_discount>120000</credit_discount>
+			<year>2024</year>
+			<price>1759900</price>
+			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>100000</tradein_discount>
+			<tradein_discount>210000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
-			<registry_year>2023</registry_year>
-			<vin>LLV2C3B23P0203443</vin>
+			<registry_year>2024</registry_year>
+			<vin>LLV2C3B22R0212458</vin>
 			<description>Livan-суббренд GEELY, это значит, что схема производства, цепочка поставки компонентов, стандарты и уровень качества продукции высшего уровня.
 Автомобиль пpедставлeн официaльным дилером Livan в г. Самара В нашем автосалоне для вас: Большой выбор автомобилей Livan в наличии Выгодный обмен по программе Тrаdе-in Большой выбор автомобилей с пробегом Выкуп автомобилей Официальный сервисный центр Кузовной сервис Кредит на выгодных условиях Страхование КАСКО, ОСАГО
 Максимальная выгода указана с учетом всех предоставляемых скидок, при условии покупки автомобиля в кредит и  при участии  в программе Тrаdе-in
 Авторассрочка:12,24,36 мес. Лизинг (для юридических лиц) Дополнительное оборудование Стоимость указана с учетом скидок и предложений Мы рады видеть Вас ежедневно с 08:00 до 20:00 по адресу: Самара, Ново-Урицкая 22А.</description>
-			<images>
-				<image>https://cars.avto-provereno.ru/feeds//LLV2C3B23P0203443/536a4b548c3592518ec2266b870d802a.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV2C3B23P0203443/6890442c7382007a7ddccb827d44138c.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV2C3B23P0203443/57eaca298324c80efc706445f635f613.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV2C3B23P0203443/7d285ca86d3cf348a927ee64d140b9f2.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV2C3B23P0203443/d8861225a7c2f9565eae41c3ac7b763f.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV2C3B23P0203443/ff8497d5f830c74de1ec2df03e6272dd.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV2C3B23P0203443/a1bade0018dd45c84369623846e6e48c.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV2C3B23P0203443/fc33dbb134f783e1e5d0de3c0ba321b0.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV2C3B23P0203443/3bc0ea5f79ff0655e53a1deebbf3692a.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV2C3B23P0203443/58cc2c38ce51c3cb2bd9906c49445b22.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV2C3B23P0203443/c052f2a87497db914474078d74488c92.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV2C3B23P0203443/e8010bf74db4b66349a3a70532c03cdb.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV2C3B23P0203443/2dd029150031343403c6d66361b96494.jpg</image>
-			</images>
-		<max_discount>549900</max_discount><priceWithDiscount>1340000</priceWithDiscount><sale_price>1340000</sale_price><url>https://livan-samara.ru/cars/livan-x3-pro-15-cvt-103-лс-luxury-белый-2023/</url></car>
-		<car>
-			<mark_id>Livan</mark_id>
-			<folder_id>X3 Pro</folder_id>
-			<modification_id>1.5 CVT (103 л.с.)</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>Luxury</complectation_name>
-			<wheel>левый</wheel>
-			<color>красный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2023</year>
-			<price>1889900</price>
-			<credit_discount>120000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>100000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<currency>RUR</currency>
-			<registry_year>2023</registry_year>
-			<vin>LLV2C3B2XP0205531</vin>
-			<description>Livan-суббренд GEELY, это значит, что схема производства, цепочка поставки компонентов, стандарты и уровень качества продукции высшего уровня.
-Автомобиль пpедставлeн официaльным дилером Livan в г. Самара В нашем автосалоне для вас: Большой выбор автомобилей Livan в наличии Выгодный обмен по программе Тrаdе-in Большой выбор автомобилей с пробегом Выкуп автомобилей Официальный сервисный центр Кузовной сервис Кредит на выгодных условиях Страхование КАСКО, ОСАГО
-Максимальная выгода указана с учетом всех предоставляемых скидок, при условии покупки автомобиля в кредит и  при участии  в программе Тrаdе-in
-Авторассрочка:12,24,36 мес. Лизинг (для юридических лиц) Дополнительное оборудование Стоимость указана с учетом скидок и предложений Мы рады видеть Вас ежедневно с 08:00 до 20:00 по адресу: Самара, Ново-Урицкая 22А.</description>
-			<images>
-				<image>https://cars.avto-provereno.ru/feeds//LLV2C3B2XP0205531/cd3ae91003652df79f35a53224e82cd0.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV2C3B2XP0205531/a005194864cc89d7eae447af80555e8d.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV2C3B2XP0205531/86c0f2707856ab6584b9743eb2743cc7.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV2C3B2XP0205531/303a538d761247527df6c5b4b6cb00f5.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV2C3B2XP0205531/9ad8268c6e048c0b9dea0c3969a315e4.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV2C3B2XP0205531/4f78c26f32a5d2b3188d78091c7e6674.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV2C3B2XP0205531/90149dfbd9a23a56fe00c85811c848a2.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV2C3B2XP0205531/8b471415fa171ff243a4cf6901f5d756.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV2C3B2XP0205531/3bcc58982550f2322f225f49567d649f.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV2C3B2XP0205531/f5f932d8e7507730faa36e8f5f91ddd9.jpg</image>
-			</images>
-		<max_discount>549900</max_discount><priceWithDiscount>1340000</priceWithDiscount><sale_price>1340000</sale_price><url>https://livan-samara.ru/cars/livan-x3-pro-15-cvt-103-лс-luxury-красный-2023/</url></car>
-		<car>
-			<mark_id>Livan</mark_id>
-			<folder_id>X3 Pro</folder_id>
-			<modification_id>1.5 CVT (103 л.с.)</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>Luxury</complectation_name>
-			<wheel>левый</wheel>
-			<color>СИНИЙ</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2023</year>
-			<price>1899900</price>
-			<credit_discount>120000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>100000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<currency>RUR</currency>
-			<registry_year>2023</registry_year>
-			<vin>LLV2C3B26P0205591</vin>
-			<description>Livan-суббренд GEELY, это значит, что схема производства, цепочка поставки компонентов, стандарты и уровень качества продукции высшего уровня.
-Автомобиль пpедставлeн официaльным дилером Livan в г. Самара В нашем автосалоне для вас: Большой выбор автомобилей Livan в наличии Выгодный обмен по программе Тrаdе-in Большой выбор автомобилей с пробегом Выкуп автомобилей Официальный сервисный центр Кузовной сервис Кредит на выгодных условиях Страхование КАСКО, ОСАГО
-Максимальная выгода указана с учетом всех предоставляемых скидок, при условии покупки автомобиля в кредит и  при участии  в программе Тrаdе-in
-Авторассрочка:12,24,36 мес. Лизинг (для юридических лиц) Дополнительное оборудование Стоимость указана с учетом скидок и предложений Мы рады видеть Вас ежедневно с 08:00 до 20:00 по адресу: Самара, Ново-Урицкая 22А.</description>
-			<images>
-				<image>https://cars.avto-provereno.ru/feeds//LLV2C3B26P0205591/a0c3f7798073bbda62de517ad01cb4b0.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV2C3B26P0205591/368e4ceebc0502d612cf780f2e18fbe5.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV2C3B26P0205591/59945ada69258da3c6752ff5467b6aee.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV2C3B26P0205591/a40ffdd8ae3d5f33a6aded7a618ff630.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV2C3B26P0205591/094e590705cc4733f2b0c73d02d6c22c.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV2C3B26P0205591/c818a32b281bff1cd13bda21bb667e21.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV2C3B26P0205591/d8e43f835b4b7bcc87d0f87e45dc9975.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV2C3B26P0205591/cee5da91014897edd5fdfe80d11ccb81.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV2C3B26P0205591/dc357d7ee535310224d4019516129e22.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV2C3B26P0205591/82899994e067c16c22bc0606f8125683.jpg</image>
-			</images>
-		<max_discount>549900</max_discount><priceWithDiscount>1350000</priceWithDiscount><sale_price>1350000</sale_price><url>https://livan-samara.ru/cars/livan-x3-pro-15-cvt-103-лс-luxury-синий-2023/</url></car>
-		<car>
-			<mark_id>Livan</mark_id>
-			<folder_id>X3 Pro</folder_id>
-			<modification_id>1.5 CVT (103 л.с.)</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>Luxury</complectation_name>
-			<wheel>левый</wheel>
-			<color>СИНИЙ</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2023</year>
-			<price>1899900</price>
-			<credit_discount>120000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>100000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<currency>RUR</currency>
-			<registry_year>2023</registry_year>
-			<vin>LLV2C3B22P0205555</vin>
-			<description>Livan-суббренд GEELY, это значит, что схема производства, цепочка поставки компонентов, стандарты и уровень качества продукции высшего уровня.
-Автомобиль пpедставлeн официaльным дилером Livan в г. Самара В нашем автосалоне для вас: Большой выбор автомобилей Livan в наличии Выгодный обмен по программе Тrаdе-in Большой выбор автомобилей с пробегом Выкуп автомобилей Официальный сервисный центр Кузовной сервис Кредит на выгодных условиях Страхование КАСКО, ОСАГО
-Максимальная выгода указана с учетом всех предоставляемых скидок, при условии покупки автомобиля в кредит и  при участии  в программе Тrаdе-in
-Авторассрочка:12,24,36 мес. Лизинг (для юридических лиц) Дополнительное оборудование Стоимость указана с учетом скидок и предложений Мы рады видеть Вас ежедневно с 08:00 до 20:00 по адресу: Самара, Ново-Урицкая 22А.</description>
-			<images>
-				<image>https://cars.avto-provereno.ru/feeds//LLV2C3B22P0205555/f3971ec920e0750c07bff00af7f1f28e.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV2C3B22P0205555/962aec3e64c7aef9692e641614a6d8b1.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV2C3B22P0205555/5b7d05b7476cc4198d759e8e60625632.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV2C3B22P0205555/93d25cd5c9f6498e5202c2bbb15d0c8e.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV2C3B22P0205555/92b7181fc8d66ce175ac601f9a991af3.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV2C3B22P0205555/667f8ba79171a96436bb338c0aa54c87.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV2C3B22P0205555/a40afae43d48d0e01e573c94116e13b6.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV2C3B22P0205555/78c62f4291b1c875b9401906883e49a5.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV2C3B22P0205555/843473959e8090ab7a0453d966941b7a.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV2C3B22P0205555/9785bfb1ce5e65248b47d782750866f9.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV2C3B22P0205555/1f785e3e6984885b58fa5a73a9bc65a9.jpg</image>
-			</images>
-		<max_discount>549900</max_discount><priceWithDiscount>1350000</priceWithDiscount><sale_price>1350000</sale_price><url>https://livan-samara.ru/cars/livan-x3-pro-15-cvt-103-лс-luxury-синий-2023/</url></car>
+			<images />
+		<max_discount>263900</max_discount><priceWithDiscount>1496000</priceWithDiscount><sale_price>1496000</sale_price><url>https://livan-samara.ru/cars/livan-x3-pro-15-cvt-103-лс-luxury-белый-2024/</url></car>
 		<car>
 			<mark_id>Livan</mark_id>
 			<folder_id>X6 Pro</folder_id>
@@ -313,44 +106,7 @@
 				<image>https://cars.avto-provereno.ru/feeds//LLV5C3B2XP0500626/e71189601cac8a319f5de05f9fc0cd7d.jpg</image>
 				<image>https://cars.avto-provereno.ru/feeds//LLV5C3B2XP0500626/df6f9e82911e3d33f4fe8459aa653682.jpg</image>
 			</images>
-		<max_discount>949900</max_discount><priceWithDiscount>1790000</priceWithDiscount><sale_price>1790000</sale_price><url>https://livan-samara.ru/cars/livan-x6-pro-15-amt-147-лс-premium-белый-2023/</url></car>
-		<car>
-			<mark_id>Livan</mark_id>
-			<folder_id>X6 Pro</folder_id>
-			<modification_id>1.5 AMT (147 л.с.)</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>Premium</complectation_name>
-			<wheel>левый</wheel>
-			<color>БЕЛЫЙ</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2023</year>
-			<price>2739900</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>165000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<currency>RUR</currency>
-			<registry_year>2023</registry_year>
-			<vin>LLV5C3B29P0500780</vin>
-			<description>Livan-суббренд GEELY, это значит, что схема производства, цепочка поставки компонентов, стандарты и уровень качества продукции высшего уровня.
-Автомобиль пpедставлeн официaльным дилером Livan в г. Самара В нашем автосалоне для вас: Большой выбор автомобилей Livan в наличии Выгодный обмен по программе Тrаdе-in Большой выбор автомобилей с пробегом Выкуп автомобилей Официальный сервисный центр Кузовной сервис Кредит на выгодных условиях Страхование КАСКО, ОСАГО
-Максимальная выгода указана с учетом всех предоставляемых скидок, при условии покупки автомобиля в кредит и  при участии  в программе Тrаdе-in
-Авторассрочка:12,24,36 мес. Лизинг (для юридических лиц) Дополнительное оборудование Стоимость указана с учетом скидок и предложений Мы рады видеть Вас ежедневно с 08:00 до 20:00 по адресу: Самара, Ново-Урицкая 22А.</description>
-			<images>
-				<image>https://cars.avto-provereno.ru/feeds//LLV5C3B29P0500780/c01c0ea01073e9900cb7044e3b2c8c91.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV5C3B29P0500780/16c19bf4b46e74b23fcf75d8939b2b7f.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV5C3B29P0500780/1c7c8763704df0913146b5479aead7d2.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV5C3B29P0500780/ba40983bf4d120322d340e49141c2fdc.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV5C3B29P0500780/bfffe48d44e41f2188aadf3bd26b25e6.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV5C3B29P0500780/0e24dab99cd534dea3a76cd48d5dd02e.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV5C3B29P0500780/0e1ac9ff32d5f9f50fd5e15a22bc931d.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV5C3B29P0500780/326b162134884938872d8a60644b35d8.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV5C3B29P0500780/e13396742a746aabf301dfdb55cb2b42.jpg</image>
-			</images>
-		<max_discount>949900</max_discount><priceWithDiscount>1790000</priceWithDiscount><sale_price>1790000</sale_price><url>https://livan-samara.ru/cars/livan-x6-pro-15-amt-147-лс-premium-белый-2023/</url></car>
+		<max_discount>1079900</max_discount><priceWithDiscount>1660000</priceWithDiscount><sale_price>1660000</sale_price><url>https://livan-samara.ru/cars/livan-x6-pro-15-amt-147-лс-premium-белый-2023/</url></car>
 		<car>
 			<mark_id>Livan</mark_id>
 			<folder_id>X6 Pro</folder_id>
@@ -388,7 +144,44 @@
 				<image>https://cars.avto-provereno.ru/feeds//LLV5C3B24P0500766/ab3fc21043547dfa2316300c157a3eac.jpg</image>
 				<image>https://cars.avto-provereno.ru/feeds//LLV5C3B24P0500766/1c188e9b7cc7b502c57e61c3122e0f9d.jpg</image>
 			</images>
-		<max_discount>949900</max_discount><priceWithDiscount>1790000</priceWithDiscount><sale_price>1790000</sale_price><url>https://livan-samara.ru/cars/livan-x6-pro-15-amt-147-лс-premium-белый-2023/</url></car>
+		<max_discount>1079900</max_discount><priceWithDiscount>1660000</priceWithDiscount><sale_price>1660000</sale_price><url>https://livan-samara.ru/cars/livan-x6-pro-15-amt-147-лс-premium-белый-2023/</url></car>
+		<car>
+			<mark_id>Livan</mark_id>
+			<folder_id>X6 Pro</folder_id>
+			<modification_id>1.5 AMT (147 л.с.)</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Premium</complectation_name>
+			<wheel>левый</wheel>
+			<color>БЕЛЫЙ</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2023</year>
+			<price>2739900</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>165000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<currency>RUR</currency>
+			<registry_year>2023</registry_year>
+			<vin>LLV5C3B29P0500780</vin>
+			<description>Livan-суббренд GEELY, это значит, что схема производства, цепочка поставки компонентов, стандарты и уровень качества продукции высшего уровня.
+Автомобиль пpедставлeн официaльным дилером Livan в г. Самара В нашем автосалоне для вас: Большой выбор автомобилей Livan в наличии Выгодный обмен по программе Тrаdе-in Большой выбор автомобилей с пробегом Выкуп автомобилей Официальный сервисный центр Кузовной сервис Кредит на выгодных условиях Страхование КАСКО, ОСАГО
+Максимальная выгода указана с учетом всех предоставляемых скидок, при условии покупки автомобиля в кредит и  при участии  в программе Тrаdе-in
+Авторассрочка:12,24,36 мес. Лизинг (для юридических лиц) Дополнительное оборудование Стоимость указана с учетом скидок и предложений Мы рады видеть Вас ежедневно с 08:00 до 20:00 по адресу: Самара, Ново-Урицкая 22А.</description>
+			<images>
+				<image>https://cars.avto-provereno.ru/feeds//LLV5C3B29P0500780/c01c0ea01073e9900cb7044e3b2c8c91.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//LLV5C3B29P0500780/16c19bf4b46e74b23fcf75d8939b2b7f.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//LLV5C3B29P0500780/1c7c8763704df0913146b5479aead7d2.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//LLV5C3B29P0500780/ba40983bf4d120322d340e49141c2fdc.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//LLV5C3B29P0500780/bfffe48d44e41f2188aadf3bd26b25e6.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//LLV5C3B29P0500780/0e24dab99cd534dea3a76cd48d5dd02e.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//LLV5C3B29P0500780/0e1ac9ff32d5f9f50fd5e15a22bc931d.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//LLV5C3B29P0500780/326b162134884938872d8a60644b35d8.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//LLV5C3B29P0500780/e13396742a746aabf301dfdb55cb2b42.jpg</image>
+			</images>
+		<max_discount>1079900</max_discount><priceWithDiscount>1660000</priceWithDiscount><sale_price>1660000</sale_price><url>https://livan-samara.ru/cars/livan-x6-pro-15-amt-147-лс-premium-белый-2023/</url></car>
 		<car>
 			<mark_id>Livan</mark_id>
 			<folder_id>X6 Pro</folder_id>
@@ -464,7 +257,43 @@
 				<image>https://cars.avto-provereno.ru/feeds//LLV5C3B20P0501218/774bd8632ef250d989437c01caf62189.jpg</image>
 				<image>https://cars.avto-provereno.ru/feeds//LLV5C3B20P0501218/8a0755fd7ccab7dd3395b74f8008556f.jpg</image>
 			</images>
-		<max_discount>949900</max_discount><priceWithDiscount>1800000</priceWithDiscount><sale_price>1800000</sale_price><url>https://livan-samara.ru/cars/livan-x6-pro-15-amt-147-лс-premium-серый-2023/</url></car>
+		<max_discount>1079900</max_discount><priceWithDiscount>1670000</priceWithDiscount><sale_price>1670000</sale_price><url>https://livan-samara.ru/cars/livan-x6-pro-15-amt-147-лс-premium-серый-2023/</url></car>
+		<car>
+			<mark_id>Livan</mark_id>
+			<folder_id>X6 Pro</folder_id>
+			<modification_id>1.5 AMT (147 л.с.)</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Premium</complectation_name>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2023</year>
+			<price>2749900</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>165000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<currency>RUR</currency>
+			<registry_year>2023</registry_year>
+			<vin>LLV5C3B25P0501246</vin>
+			<description>Livan-суббренд GEELY, это значит, что схема производства, цепочка поставки компонентов, стандарты и уровень качества продукции высшего уровня.
+Автомобиль пpедставлeн официaльным дилером Livan в г. Самара В нашем автосалоне для вас: Большой выбор автомобилей Livan в наличии Выгодный обмен по программе Тrаdе-in Большой выбор автомобилей с пробегом Выкуп автомобилей Официальный сервисный центр Кузовной сервис Кредит на выгодных условиях Страхование КАСКО, ОСАГО
+Максимальная выгода указана с учетом всех предоставляемых скидок, при условии покупки автомобиля в кредит и  при участии  в программе Тrаdе-in
+Авторассрочка:12,24,36 мес. Лизинг (для юридических лиц) Дополнительное оборудование Стоимость указана с учетом скидок и предложений Мы рады видеть Вас ежедневно с 08:00 до 20:00 по адресу: Самара, Ново-Урицкая 22А.</description>
+			<images>
+				<image>https://cars.avto-provereno.ru/feeds//LLV5C3B25P0501246/60a7135591f5557e5a613fa252cad9b2.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//LLV5C3B25P0501246/29e51d289b03bd2f09cd53a0f80b4690.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//LLV5C3B25P0501246/4c76869ae8b5e72d925e5a9280fe8701.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//LLV5C3B25P0501246/2803bc74e11ca65ddeba3ee6ea1437c5.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//LLV5C3B25P0501246/0ac8747a791098e5f179a832b64fe047.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//LLV5C3B25P0501246/a6b3a884b075a3953ef92291f4449ae3.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//LLV5C3B25P0501246/2d2bb92c06309351ddee72532f2c6693.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//LLV5C3B25P0501246/6342aad3b28fdd4a2ea65e3103a8d401.jpg</image>
+			</images>
+		<max_discount>1079900</max_discount><priceWithDiscount>1670000</priceWithDiscount><sale_price>1670000</sale_price><url>https://livan-samara.ru/cars/livan-x6-pro-15-amt-147-лс-premium-серый-2023/</url></car>
 		<car>
 			<mark_id>Livan</mark_id>
 			<folder_id>X6 Pro</folder_id>
@@ -501,42 +330,6 @@
 				<image>https://cars.avto-provereno.ru/feeds//LLV5C3B28P0501242/c8c8f13822392cd8963a7e8e165284bb.jpg</image>
 				<image>https://cars.avto-provereno.ru/feeds//LLV5C3B28P0501242/eb520ad2ee2470f7bd094deaf7195e0f.jpg</image>
 			</images>
-		<max_discount>949900</max_discount><priceWithDiscount>1800000</priceWithDiscount><sale_price>1800000</sale_price><url>https://livan-samara.ru/cars/livan-x6-pro-15-amt-147-лс-premium-серый-2023/</url></car>
-		<car>
-			<mark_id>Livan</mark_id>
-			<folder_id>X6 Pro</folder_id>
-			<modification_id>1.5 AMT (147 л.с.)</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>Premium</complectation_name>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2023</year>
-			<price>2749900</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>165000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<currency>RUR</currency>
-			<registry_year>2023</registry_year>
-			<vin>LLV5C3B25P0501246</vin>
-			<description>Livan-суббренд GEELY, это значит, что схема производства, цепочка поставки компонентов, стандарты и уровень качества продукции высшего уровня.
-Автомобиль пpедставлeн официaльным дилером Livan в г. Самара В нашем автосалоне для вас: Большой выбор автомобилей Livan в наличии Выгодный обмен по программе Тrаdе-in Большой выбор автомобилей с пробегом Выкуп автомобилей Официальный сервисный центр Кузовной сервис Кредит на выгодных условиях Страхование КАСКО, ОСАГО
-Максимальная выгода указана с учетом всех предоставляемых скидок, при условии покупки автомобиля в кредит и  при участии  в программе Тrаdе-in
-Авторассрочка:12,24,36 мес. Лизинг (для юридических лиц) Дополнительное оборудование Стоимость указана с учетом скидок и предложений Мы рады видеть Вас ежедневно с 08:00 до 20:00 по адресу: Самара, Ново-Урицкая 22А.</description>
-			<images>
-				<image>https://cars.avto-provereno.ru/feeds//LLV5C3B25P0501246/60a7135591f5557e5a613fa252cad9b2.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV5C3B25P0501246/29e51d289b03bd2f09cd53a0f80b4690.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV5C3B25P0501246/4c76869ae8b5e72d925e5a9280fe8701.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV5C3B25P0501246/2803bc74e11ca65ddeba3ee6ea1437c5.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV5C3B25P0501246/0ac8747a791098e5f179a832b64fe047.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV5C3B25P0501246/a6b3a884b075a3953ef92291f4449ae3.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV5C3B25P0501246/2d2bb92c06309351ddee72532f2c6693.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//LLV5C3B25P0501246/6342aad3b28fdd4a2ea65e3103a8d401.jpg</image>
-			</images>
-		<max_discount>949900</max_discount><priceWithDiscount>1800000</priceWithDiscount><sale_price>1800000</sale_price><url>https://livan-samara.ru/cars/livan-x6-pro-15-amt-147-лс-premium-серый-2023/</url></car>
+		<max_discount>1079900</max_discount><priceWithDiscount>1670000</priceWithDiscount><sale_price>1670000</sale_price><url>https://livan-samara.ru/cars/livan-x6-pro-15-amt-147-лс-premium-серый-2023/</url></car>
 	</cars>
 </data>
