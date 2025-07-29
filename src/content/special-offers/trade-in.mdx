@@ -7,7 +7,8 @@ image: https://cdn.alexsab.ru/b/livan/img/offers/trade-in/thumb.webp
 description: "Trade-in в Livan Альфа Самара: обменяйте ваш старый автомобиль на новый Ливэн на выгодных условиях"
 ---
 import Button from '@/components/Button/Button.astro';
-import { SITE_NAME, PHONE } from '@/const';
+import settings from '@/data/settings.json';
+export const { site_name, phone_common } = settings;
 import { phoneFormat } from '@/js/utils/numbers.format';
 import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
 
@@ -26,7 +27,7 @@ import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
 
 Выгода по программе «Трейд-ин» в размере 220 000 (двухсот двадцати тысяч) рублей это единовременная и разовая скидка по программе «Трейд-ин», предоставляется дилером покупателю от розничной цены автомобиля LIVAN S6PRO, приобретаемого по Программе, при сдаче в трейд-ин автомобиля с пробегом.  Условия настоящей программы не сочетаются с условиями «Программы LIVAN Finance» (Финанс). Программа действует с 02.09.2024 г. ООО «Ливэн Моторс Рус» вправе изменить сроки и условия Программы. Не является публичной офертой. 
 
-Подробности в нашем дилерском центре по тел.: <a href={`tel:${phoneFormat(PHONE)}`}>{PHONE}</a>
+Подробности в нашем дилерском центре по тел.: <a href={`tel:${phoneFormat(phone_common)}`}>{phone_common}</a>
 
 <div class="flex justify-center mt-10 mb-5">
     <Button 

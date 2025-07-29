@@ -7,7 +7,8 @@ image: https://cdn.alexsab.ru/b/livan/img/offers/livan-finance-program/thumb.web
 description: "Программа LIVAN FINANCE в Livan Альфа Самара: выгодное финансирование при покупке автомобилей Ливэн. Подробнее о льготных условиях кредитования и лизинга."
 ---
 import Button from '@/components/Button/Button.astro';
-import { SITE_NAME, PHONE } from '@/const';
+import settings from '@/data/settings.json';
+export const { site_name, phone_common } = settings;
 import { phoneFormat } from '@/js/utils/numbers.format';
 import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
 
@@ -4026,7 +4027,7 @@ import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
 <p><sup>1 </sup>Ливэн финанс</p>
 
 
-Подробности в нашем дилерском центре по тел.: <a href={`tel:${phoneFormat(PHONE)}`}>{PHONE}</a>
+Подробности в нашем дилерском центре по тел.: <a href={`tel:${phoneFormat(phone_common)}`}>{phone_common}</a>
 
 <div class="flex justify-center mt-10 mb-5">
     <Button 
